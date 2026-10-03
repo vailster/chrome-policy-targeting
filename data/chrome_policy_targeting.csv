@@ -1,0 +1,1230 @@
+schemaName,area,category,groupScopable,targets,lifecycleStage,description
+chrome.devices.AdvancedBatteryChargeMode,chrome.devices,Power and shutdown,YES,GROUP+ORG_UNIT,,Advanced Charge battery mode.
+chrome.devices.AllowedBluetoothServices,chrome.devices,Other settings,YES,GROUP+ORG_UNIT,,Bluetooth services allowed.
+chrome.devices.AllowRedeemChromeOsRegistrationOffers,chrome.devices,Other settings,YES,GROUP+ORG_UNIT,,Redeem offers through ChromeOS registration.
+chrome.devices.AnonymousMetricReporting,chrome.devices,User and device reporting,NO,ORG_UNIT,,Metrics reporting.
+chrome.devices.AppToPinOsVersion,chrome.devices,Device update settings,YES,GROUP+ORG_UNIT,,App-controlled updates.
+chrome.devices.AutoUpdateSettings,chrome.devices,Device update settings,YES,GROUP+ORG_UNIT,,Auto-update settings.
+chrome.devices.Bluetooth,chrome.devices,Other settings,YES,GROUP+ORG_UNIT,,Bluetooth.
+chrome.devices.BootOnAc,chrome.devices,Power and shutdown,YES,GROUP+ORG_UNIT,,Boot on AC.
+chrome.devices.ContentProtection,chrome.devices,Enrollment and access,YES,GROUP+ORG_UNIT,,Allow web services to request proof that the device is running an unmodified version of ChromeOS that is policy compliant.
+chrome.devices.DeviceAllowEnterpriseRemoteAccessConnections,chrome.devices,Sign-in settings,YES,GROUP+ORG_UNIT,,Enterprise remote access connections.
+chrome.devices.DeviceAuthenticationFlowAutoReloadInterval,chrome.devices,Sign-in settings,YES,GROUP+ORG_UNIT,,Automatic online sign-in / lock screen refresh.
+chrome.devices.DeviceAuthenticationUrlAllowlist,chrome.devices,Sign-in settings,YES,GROUP+ORG_UNIT,,Blocked URL exceptions on the sign-in / lock screens.
+chrome.devices.DeviceAuthenticationUrlBlocklist,chrome.devices,Sign-in settings,YES,GROUP+ORG_UNIT,,Blocked URLs on the sign-in / lock screens.
+chrome.devices.DeviceAutofillSamlUsername,chrome.devices,Sign-in settings,YES,GROUP+ORG_UNIT,,Autofill username on SAML IdP login page.
+chrome.devices.DeviceBatteryCharge,chrome.devices,Power and shutdown,YES,GROUP+ORG_UNIT,,Primary battery charge configuration.
+chrome.devices.DeviceChargingSoundsEnabled,chrome.devices,Other settings,YES,GROUP+ORG_UNIT,,Charging Sounds.
+chrome.devices.DeviceDebugPacketCaptureAllowed,chrome.devices,Other settings,YES,GROUP+ORG_UNIT,,Debug network packet captures.
+chrome.devices.DeviceDlcPredownloadList,chrome.devices,Other settings,YES,GROUP+ORG_UNIT,,Preload peripheral drivers.
+chrome.devices.DeviceExtendedAutoUpdateEnabled,chrome.devices,Device update settings,YES,GROUP+ORG_UNIT,,Extended auto-updates.
+chrome.devices.DeviceExtensionsSystemLogEnabled,chrome.devices,User and device reporting,YES,GROUP+ORG_UNIT,,Extensions system logging.
+chrome.devices.DeviceFlexArcPreloadEnabled,chrome.devices,Other settings,YES,GROUP+ORG_UNIT,,Preload ArcVM image on ChromeOS Flex.
+chrome.devices.DeviceFlexHwDataForProductImprovementEnabled,chrome.devices,Other settings,YES,GROUP+ORG_UNIT,,Additional hardware data on ChromeOS Flex.
+chrome.devices.DeviceHardwareVideoDecodingEnabled,chrome.devices,Other settings,YES,GROUP+ORG_UNIT,,Hardware video acceleration.
+chrome.devices.DeviceInternationalizationShortcutsEnabled,chrome.devices,Other settings,YES,GROUP+ORG_UNIT,,International keyboard shortcuts mapping.
+chrome.devices.DeviceKeyboardBacklightColor,chrome.devices,Other settings,YES,GROUP+ORG_UNIT,,Default keyboard backlight color.
+chrome.devices.DeviceKeylockerForStorageEncryptionEnabled,chrome.devices,Other settings,YES,GROUP+ORG_UNIT,,Enable Key Locker.
+chrome.devices.DeviceLoginScreenAutocompleteDomainGroup,chrome.devices,Sign-in settings,YES,GROUP+ORG_UNIT,,Autocomplete domain.
+chrome.devices.DeviceLoginScreenAutoSelectCertificateForUrls,chrome.devices,Sign-in settings,NO,ORG_UNIT,,Single sign-on client certificates.
+chrome.devices.DeviceLoginScreenExtensionManifestVTwoAvailability,chrome.devices,Sign-in settings,YES,GROUP+ORG_UNIT,,Manifest v2 extension availability on sign-in screen.
+chrome.devices.DeviceLoginScreenFaceGazeEnabled,chrome.devices,Sign-in screen accessibility,YES,GROUP+ORG_UNIT,,Face control.
+chrome.devices.DeviceLoginScreenPreferSlowCiphers,chrome.devices,Security,YES,GROUP+ORG_UNIT,,TLS cipher preference on the login screen.
+chrome.devices.DeviceLoginScreenPreferSlowKexAlgorithms,chrome.devices,Security,YES,GROUP+ORG_UNIT,,TLS key exchange algorithms for the login screen.
+chrome.devices.DeviceLoginScreenPrivacyScreenEnabled,chrome.devices,Sign-in settings,YES,GROUP+ORG_UNIT,,Privacy screen on sign-in screen.
+chrome.devices.DeviceLoginScreenPromptOnMultipleMatchingCertificates,chrome.devices,Other settings,YES,GROUP+ORG_UNIT,,Prompt when multiple certificates match on the sign-in screen.
+chrome.devices.DeviceLoginScreenSecurityKeyPermitAttestation,chrome.devices,Security,YES,GROUP+ORG_UNIT,,Device security key attestation.
+chrome.devices.DeviceLoginScreenSystemInfoEnforced,chrome.devices,Sign-in settings,YES,GROUP+ORG_UNIT,,System info on sign-in screen.
+chrome.devices.DeviceLoginScreenWebHidAllowDevicesForUrls,chrome.devices,Sign-in settings,NO,ORG_UNIT,,WebHID API allowed devices on sign-in screen.
+chrome.devices.DeviceLoginScreenWebUsbAllowDevicesForUrls,chrome.devices,Sign-in settings,NO,ORG_UNIT,,WebUSB API allowed devices on sign-in screen.
+chrome.devices.DeviceLowBatterySoundEnabled,chrome.devices,Other settings,YES,GROUP+ORG_UNIT,,Low Battery Sound.
+chrome.devices.DeviceNativeClientForceAllowed,chrome.devices,Other settings,YES,GROUP+ORG_UNIT,,Native Client (NaCl).
+chrome.devices.DevicePciPeripheralDataAccessEnabled,chrome.devices,Other settings,YES,GROUP+ORG_UNIT,,Data access protection for peripherals.
+chrome.devices.DevicePostQuantumKeyAgreementEnabled,chrome.devices,Security,YES,GROUP+ORG_UNIT,,Post-quantum TLS.
+chrome.devices.DevicePowerBatteryChargingOptimization,chrome.devices,Power and shutdown,YES,GROUP+ORG_UNIT,,Battery charging optimization.
+chrome.devices.DevicePowerwashAllowed,chrome.devices,Enrollment and access,YES,GROUP+ORG_UNIT,,Powerwash.
+chrome.devices.DevicePrintingClientNameTemplate,chrome.devices,Other settings,YES,GROUP+ORG_UNIT,,Internet Printing Protocol client-name attribute.
+chrome.devices.DeviceRebootOnUserSignout,chrome.devices,Power and shutdown,YES,GROUP+ORG_UNIT,,Reboot on sign-out.
+chrome.devices.DeviceReportXdrEvents,chrome.devices,User and device reporting,YES,GROUP+ORG_UNIT,,Report extended detection and response (XDR) events.
+chrome.devices.DeviceRestrictedManagedGuestSessionEnabled,chrome.devices,Imprivata,YES,GROUP+ORG_UNIT,,Shared kiosk mode.
+chrome.devices.DeviceRestrictionSchedule,chrome.devices,Sign-in settings,YES,GROUP+ORG_UNIT,,Device restriction schedule.
+chrome.devices.DeviceScheduledReboot,chrome.devices,Power and shutdown,YES,GROUP+ORG_UNIT,,Scheduled reboot.
+chrome.devices.DeviceScreensaverLoginScreenEnabled,chrome.devices,Power and shutdown,YES,GROUP+ORG_UNIT,,Screen saver.
+chrome.devices.DeviceScreenSettings,chrome.devices,Display settings,YES,GROUP+ORG_UNIT,,Screen settings.
+chrome.devices.DeviceSecondFactorAuthentication,chrome.devices,Enrollment and access,YES,GROUP+ORG_UNIT,,Integrated FIDO second factor.
+chrome.devices.DeviceShowNumericKeyboardForPassword,chrome.devices,Sign-in settings,YES,GROUP+ORG_UNIT,,Show numeric keyboard for password.
+chrome.devices.DeviceSwitchFunctionKeysBehaviorEnabled,chrome.devices,Other settings,YES,GROUP+ORG_UNIT,,Function keys behavior.
+chrome.devices.DeviceSystemWideTracingEnabled,chrome.devices,User and device reporting,YES,GROUP+ORG_UNIT,,System-wide performance trace collection.
+chrome.devices.DeviceUpdateDeviceAttributes,chrome.devices,Enrollment and access,YES,GROUP+ORG_UNIT,,Asset identifier input after zero touch enrollment.
+chrome.devices.DeviceUserInitiatedFirmwareUpdatesEnabled,chrome.devices,Other settings,YES,GROUP+ORG_UNIT,,Firmware update.
+chrome.devices.DeviceVerifiedMode,chrome.devices,Enrollment and access,YES,GROUP+ORG_UNIT,,Verified mode.
+chrome.devices.DeviceWebBasedAttestationAllowedUrls,chrome.devices,Sign-in settings,YES,GROUP+ORG_UNIT,,Single sign-on verified access.
+chrome.devices.DeviceWilcoDtc,chrome.devices,Other settings,YES,GROUP+ORG_UNIT,,Dell SupportAssist.
+chrome.devices.DisabledDeviceReturnInstructions,chrome.devices,Enrollment and access,YES,GROUP+ORG_UNIT,,Disabled device return instructions.
+chrome.devices.DockMacAddress,chrome.devices,Other settings,YES,GROUP+ORG_UNIT,,MAC address pass through.
+chrome.devices.EnableGranularDeviceHardwareReporting,chrome.devices,User and device reporting,YES,GROUP+ORG_UNIT,,Report device hardware information.
+chrome.devices.EnableGranularDeviceOsReporting,chrome.devices,User and device reporting,YES,GROUP+ORG_UNIT,,Report device OS information.
+chrome.devices.EnableGranularDeviceTelemetryReporting,chrome.devices,User and device reporting,YES,GROUP+ORG_UNIT,,Report device telemetry.
+chrome.devices.EnableReportDeviceKioskSession,chrome.devices,User and device reporting,YES,GROUP+ORG_UNIT,,Report kiosk session status.
+chrome.devices.EnableReportDevicePrintJobs,chrome.devices,User and device reporting,YES,GROUP+ORG_UNIT,,Report device print jobs.
+chrome.devices.EnableReportDeviceRunningKioskApp,chrome.devices,User and device reporting,YES,GROUP+ORG_UNIT,,Report the running kiosk app.
+chrome.devices.EnableReportDeviceUsers,chrome.devices,User and device reporting,YES,GROUP+ORG_UNIT,,Report device user tracking.
+chrome.devices.EnableReportUploadFrequency,chrome.devices,User and device reporting,NO,ORG_UNIT,,Device status report upload frequency.
+chrome.devices.EnableReportUploadFrequencyV2,chrome.devices,User and device reporting,YES,GROUP+ORG_UNIT,,Device status report upload frequency.
+chrome.devices.ExtensionCacheSize,chrome.devices,Other settings,YES,GROUP+ORG_UNIT,,Apps and extensions cache size.
+chrome.devices.ForcedReenrollment,chrome.devices,Enrollment and access,YES,GROUP+ORG_UNIT,,Forced re-enrollment.
+chrome.devices.GuestMode,chrome.devices,Sign-in settings,YES,GROUP+ORG_UNIT,,Guest mode.
+chrome.devices.HostnameTemplate,chrome.devices,Other settings,YES,GROUP+ORG_UNIT,,Device network hostname template.
+chrome.devices.Imprivata,chrome.devices,Imprivata,NO,ORG_UNIT,,Imprivata login screen integration.
+chrome.devices.InactiveDeviceNotifications,chrome.devices,User and device reporting,YES,GROUP+ORG_UNIT,,Inactive device notifications.
+chrome.devices.kiosk.AccessibilityShortcutsEnabled,chrome.devices.kiosk,Kiosk accessibility,NO,ORG_UNIT,,Kiosk accessibility shortcuts.
+chrome.devices.kiosk.AcPowerSettings,chrome.devices.kiosk,Kiosk power settings,NO,ORG_UNIT,,AC Kiosk power settings.
+chrome.devices.kiosk.AcPowerSettingsV2,chrome.devices.kiosk,Kiosk power settings,NO,ORG_UNIT,,AC Kiosk power settings.
+chrome.devices.kiosk.Alerting,chrome.devices.kiosk,Kiosk settings,NO,ORG_UNIT,,Kiosk device status alerting delivery.
+chrome.devices.kiosk.AlertingContactInfo,chrome.devices.kiosk,Kiosk settings,NO,ORG_UNIT,,Kiosk device status alerting contact info.
+chrome.devices.kiosk.apps.ChromeExtensionsForWebApps,chrome.devices.kiosk,Kiosk apps,NO,ORG_UNIT,,Allows setting of chrome extensions for web apps.
+chrome.devices.kiosk.apps.ForceInstall,chrome.devices.kiosk,Kiosk apps,NO,ORG_UNIT,,Force installs the app. Note: It's required in order to add an App or Extension to the set of managed apps & extensions of an Organizational Unit.
+chrome.devices.kiosk.apps.FunctionKeys,chrome.devices.kiosk,Kiosk apps,NO,ORG_UNIT,,Allows setting Function Keys.
+chrome.devices.kiosk.apps.InstallationUrlV2,chrome.devices.kiosk,Kiosk apps,NO,ORG_UNIT,,Specifies the url from which to install a self hosted Chrome Extension.
+chrome.devices.kiosk.apps.KioskBrowserPermissionsAllowedForOrigins,chrome.devices.kiosk,Kiosk apps,NO,ORG_UNIT,,Allows setting of additional origins to access browser permissions and device attributes API (if enabled) for web app.
+chrome.devices.kiosk.apps.KioskWebAppOfflineEnabled,chrome.devices.kiosk,Kiosk apps,NO,ORG_UNIT,,Allow setting whether the web app can run offline.
+chrome.devices.kiosk.apps.ManagedConfiguration,chrome.devices.kiosk,Kiosk apps,NO,ORG_UNIT,,Allows setting of the managed configuration.
+chrome.devices.kiosk.apps.Plugins,chrome.devices.kiosk,Kiosk apps,NO,ORG_UNIT,,Allows setting Plugins.
+chrome.devices.kiosk.apps.PowerManagement,chrome.devices.kiosk,Kiosk apps,NO,ORG_UNIT,,Allows setting Power Management.
+chrome.devices.kiosk.apps.UnifiedDesktop,chrome.devices.kiosk,Kiosk apps,NO,ORG_UNIT,,Allows setting Unified Desktop.
+chrome.devices.kiosk.apps.VirtualKeyboard,chrome.devices.kiosk,Kiosk apps,NO,ORG_UNIT,,Allows setting Virtual Keyboard.
+chrome.devices.kiosk.appsconfig.AutoLaunchApp,chrome.devices.kiosk,Kiosk apps config,NO,ORG_UNIT,,Allows setting of the auto-launch app.
+chrome.devices.kiosk.AutoclickEnabled,chrome.devices.kiosk,Kiosk accessibility,NO,ORG_UNIT,,Kiosk auto-click enabled.
+chrome.devices.kiosk.BatteryPowerSettings,chrome.devices.kiosk,Kiosk power settings,NO,ORG_UNIT,,Battery Kiosk power settings.
+chrome.devices.kiosk.BatteryPowerSettingsV2,chrome.devices.kiosk,Kiosk power settings,NO,ORG_UNIT,,Battery Kiosk power settings.
+chrome.devices.kiosk.CaCertificateManagementAllowed,chrome.devices.kiosk,Kiosk settings,NO,ORG_UNIT,,Installed CA certificates management.
+chrome.devices.kiosk.CaretHighlightEnabled,chrome.devices.kiosk,Kiosk accessibility,NO,ORG_UNIT,,Kiosk caret highlight.
+chrome.devices.kiosk.ClientCertificateManagementAllowed,chrome.devices.kiosk,Kiosk settings,NO,ORG_UNIT,,Installed client certificates management.
+chrome.devices.kiosk.CursorHighlightEnabled,chrome.devices.kiosk,Kiosk accessibility,NO,ORG_UNIT,,Kiosk cursor highlight.
+chrome.devices.kiosk.DeviceWeeklyScheduledSuspend,chrome.devices.kiosk,Kiosk power settings,NO,ORG_UNIT,,Device sleep mode.
+chrome.devices.kiosk.DictationEnabled,chrome.devices.kiosk,Kiosk accessibility,NO,ORG_UNIT,,Kiosk dictation.
+chrome.devices.kiosk.EnterpriseHardwarePlatformApiEnabled,chrome.devices.kiosk,Kiosk settings,NO,ORG_UNIT,,Enterprise Hardware Platform API.
+chrome.devices.kiosk.HighContrastEnabled,chrome.devices.kiosk,Kiosk accessibility,NO,ORG_UNIT,,Kiosk high contrast.
+chrome.devices.kiosk.InsecureContentAllowedForUrls,chrome.devices.kiosk,Kiosk settings,NO,ORG_UNIT,,Allow insecure content on these sites.
+chrome.devices.kiosk.InsecureContentBlockedForUrls,chrome.devices.kiosk,Kiosk settings,NO,ORG_UNIT,,Block insecure content on these sites.
+chrome.devices.kiosk.KeyboardFocusHighlightEnabled,chrome.devices.kiosk,Kiosk accessibility,NO,ORG_UNIT,,Kiosk keyboard focus highlighting.
+chrome.devices.kiosk.KioskAllowedInputMethods,chrome.devices.kiosk,Kiosk settings,NO,ORG_UNIT,,Kiosk allowed input methods.
+chrome.devices.kiosk.KioskApplicationLogCollectionEnabled,chrome.devices.kiosk,Kiosk settings,NO,ORG_UNIT,,Kiosk application level logs collection.
+chrome.devices.kiosk.KioskChromeAppsForceAllowed,chrome.devices.kiosk,Kiosk settings,NO,ORG_UNIT,,Chrome Apps allowed for kiosk mode.
+chrome.devices.kiosk.KioskPinchToZoomAllowed,chrome.devices.kiosk,Kiosk settings,NO,ORG_UNIT,,Pinch-to-zoom.
+chrome.devices.kiosk.KioskTroubleshootingToolsEnabled,chrome.devices.kiosk,Kiosk settings,NO,ORG_UNIT,,Kiosk troubleshooting tools.
+chrome.devices.kiosk.KioskVirtualKeyboardFeatures,chrome.devices.kiosk,Kiosk settings,NO,ORG_UNIT,,Kiosk virtual keyboard features (websites only).
+chrome.devices.kiosk.LargeCursorEnabled,chrome.devices.kiosk,Kiosk accessibility,NO,ORG_UNIT,,Kiosk large cursor.
+chrome.devices.kiosk.LidCloseAction,chrome.devices.kiosk,Kiosk power settings,NO,ORG_UNIT,,Action on lid close.
+chrome.devices.kiosk.MonoAudioEnabled,chrome.devices.kiosk,Kiosk accessibility,NO,ORG_UNIT,,Kiosk mono audio.
+chrome.devices.kiosk.PrimaryMouseButtonSwitch,chrome.devices.kiosk,Kiosk accessibility,NO,ORG_UNIT,,Kiosk primary mouse button.
+chrome.devices.kiosk.RemoteAccessHostAllowEnterpriseFileTransfer,chrome.devices.kiosk,Kiosk settings,NO,ORG_UNIT,,Allow remote access admins to transfer files to/from the host.
+chrome.devices.kiosk.ScreenMagnifierType,chrome.devices.kiosk,Kiosk accessibility,NO,ORG_UNIT,,Kiosk screen magnifier.
+chrome.devices.kiosk.SelectToSpeakEnabled,chrome.devices.kiosk,Kiosk accessibility,NO,ORG_UNIT,,Kiosk select to speak.
+chrome.devices.kiosk.SerialAllowUsbDevicesForUrls,chrome.devices.kiosk,Kiosk settings,NO,ORG_UNIT,,Web Serial API allowed devices.
+chrome.devices.kiosk.ShowAccessibilityMenu,chrome.devices.kiosk,Kiosk accessibility,NO,ORG_UNIT,,Kiosk floating accessibility menu.
+chrome.devices.kiosk.SilentPrintingEnabled,chrome.devices.kiosk,Kiosk settings,NO,ORG_UNIT,,Silent printing.
+chrome.devices.kiosk.SpokenFeedbackEnabled,chrome.devices.kiosk,Kiosk accessibility,NO,ORG_UNIT,,Kiosk spoken feedback.
+chrome.devices.kiosk.StickyKeysEnabled,chrome.devices.kiosk,Kiosk accessibility,NO,ORG_UNIT,,Kiosk sticky keys.
+chrome.devices.kiosk.UrlBlocking,chrome.devices.kiosk,Kiosk settings,NO,ORG_UNIT,,URL blocking.
+chrome.devices.kiosk.UrlKeyedAnonymizedDataCollectionEnabled,chrome.devices.kiosk,Kiosk settings,NO,ORG_UNIT,,URL-keyed anonymized data collection.
+chrome.devices.kiosk.VirtualKeyboardEnabled,chrome.devices.kiosk,Kiosk accessibility,NO,ORG_UNIT,,Kiosk on-screen keyboard.
+chrome.devices.kiosk.WebHidAllowDevicesForUrls,chrome.devices.kiosk,Kiosk settings,NO,ORG_UNIT,,WebHID API allowed devices.
+chrome.devices.kiosk.WebUsbAllowDevicesForUrls,chrome.devices.kiosk,Kiosk settings,NO,ORG_UNIT,,WebUSB API allowed devices.
+chrome.devices.KioskAppControlChromeVersion,chrome.devices,Device update settings,YES,GROUP+ORG_UNIT,,Kiosk-controlled updates.
+chrome.devices.LoginScreenAccessibilityShortcutsEnabled,chrome.devices,Sign-in screen accessibility,YES,GROUP+ORG_UNIT,,Accessibility shortcuts.
+chrome.devices.LoginScreenAutoclickEnabled,chrome.devices,Sign-in screen accessibility,YES,GROUP+ORG_UNIT,,Auto-click enabled.
+chrome.devices.LoginScreenCaretHighlightEnabled,chrome.devices,Sign-in screen accessibility,YES,GROUP+ORG_UNIT,,Caret highlight.
+chrome.devices.LoginScreenCursorHighlightEnabled,chrome.devices,Sign-in screen accessibility,YES,GROUP+ORG_UNIT,,Cursor highlight.
+chrome.devices.LoginScreenDictationEnabled,chrome.devices,Sign-in screen accessibility,YES,GROUP+ORG_UNIT,,Dictation.
+chrome.devices.LoginScreenHighContrastEnabled,chrome.devices,Sign-in screen accessibility,YES,GROUP+ORG_UNIT,,High contrast.
+chrome.devices.LoginScreenKeyboardFocusHighlightEnabled,chrome.devices,Sign-in screen accessibility,YES,GROUP+ORG_UNIT,,Keyboard focus highlighting.
+chrome.devices.LoginScreenLargeCursorEnabled,chrome.devices,Sign-in screen accessibility,YES,GROUP+ORG_UNIT,,Large cursor.
+chrome.devices.LoginScreenMonoAudioEnabled,chrome.devices,Sign-in screen accessibility,YES,GROUP+ORG_UNIT,,Mono audio.
+chrome.devices.LoginScreenNamesAndPhotos,chrome.devices,Sign-in settings,YES,GROUP+ORG_UNIT,,Show user names and photos on the sign-in screen.
+chrome.devices.LoginScreenPrimaryMouseButtonSwitch,chrome.devices,Sign-in screen accessibility,YES,GROUP+ORG_UNIT,,Primary mouse button.
+chrome.devices.LoginScreenScreenMagnifierType,chrome.devices,Sign-in screen accessibility,YES,GROUP+ORG_UNIT,,Screen magnifier.
+chrome.devices.LoginScreenSelectToSpeakEnabled,chrome.devices,Sign-in screen accessibility,YES,GROUP+ORG_UNIT,,Select to speak.
+chrome.devices.LoginScreenSpokenFeedbackEnabled,chrome.devices,Sign-in screen accessibility,YES,GROUP+ORG_UNIT,,Spoken feedback.
+chrome.devices.LoginScreenStickyKeysEnabled,chrome.devices,Sign-in screen accessibility,YES,GROUP+ORG_UNIT,,Sticky keys.
+chrome.devices.LoginScreenVirtualKeyboardEnabled,chrome.devices,Sign-in screen accessibility,YES,GROUP+ORG_UNIT,,On-screen keyboard.
+chrome.devices.LogUploadEnabled,chrome.devices,User and device reporting,YES,GROUP+ORG_UNIT,,Device system log upload.
+chrome.devices.managedguest.AbusiveExperienceInterventionEnforce,chrome.devices.managedguest,Chrome Safe Browsing,NO,ORG_UNIT,,Abusive Experience Intervention.
+chrome.devices.managedguest.AccessControlAllowMethodsInCorsPreflightSpecConformant,chrome.devices.managedguest,Network,NO,ORG_UNIT,,CORS Access-Control-Allow-Methods conformance.
+chrome.devices.managedguest.AccessibilityImageLabelsEnabled,chrome.devices.managedguest,Accessibility,NO,ORG_UNIT,,Image descriptions.
+chrome.devices.managedguest.AccessibilityShortcutsEnabled,chrome.devices.managedguest,Accessibility,NO,ORG_UNIT,,Accessibility shortcuts.
+chrome.devices.managedguest.AdditionalDnsQueryTypesEnabled,chrome.devices.managedguest,Network,NO,ORG_UNIT,,DNS queries for additional DNS record types.
+chrome.devices.managedguest.AdsSettingForIntrusiveAdsSites,chrome.devices.managedguest,Chrome Safe Browsing,NO,ORG_UNIT,,Sites with intrusive ads.
+chrome.devices.managedguest.AllowBackForwardCacheForCacheControlNoStorePageEnabled,chrome.devices.managedguest,Security,NO,ORG_UNIT,,No-store header back/forward cache.
+chrome.devices.managedguest.AllowDinosaurEasterEgg,chrome.devices.managedguest,User experience,NO,ORG_UNIT,,Dinosaur game.
+chrome.devices.managedguest.AllowedInputMethods,chrome.devices.managedguest,User experience,NO,ORG_UNIT,,Allowed input methods.
+chrome.devices.managedguest.AllowedLanguages,chrome.devices.managedguest,User experience,NO,ORG_UNIT,,Allowed ChromeOS languages.
+chrome.devices.managedguest.AllowExcludeDisplayInMirrorMode,chrome.devices.managedguest,User experience,NO,ORG_UNIT,,Exclude display in mirror mode.
+chrome.devices.managedguest.AllowPrinting,chrome.devices.managedguest,Printing,NO,ORG_UNIT,,Printing.
+chrome.devices.managedguest.AllowSocketPoolSizeRandomizationForProxies,chrome.devices.managedguest,Network,NO,ORG_UNIT,,Proxy socket pool size randomization.
+chrome.devices.managedguest.AllowWakeLocks,chrome.devices.managedguest,Power and shutdown,NO,ORG_UNIT,,Wake locks.
+chrome.devices.managedguest.AllowWebAuthnWithBrokenTlsCerts,chrome.devices.managedguest,Security,NO,ORG_UNIT,,Web Authentication requests on sites with broken TLS certificates.
+chrome.devices.managedguest.AlwaysOnVpn,chrome.devices.managedguest,Network,NO,ORG_UNIT,,Always on VPN.
+chrome.devices.managedguest.AlwaysOnVpnPreConnectUrlAllowlist,chrome.devices.managedguest,Network,NO,ORG_UNIT,,Always on VPN URL exceptions.
+chrome.devices.managedguest.AppCacheForceEnabled,chrome.devices.managedguest,Content,NO,ORG_UNIT,,AppCache.
+chrome.devices.managedguest.AppRecommendationZeroStateEnabled,chrome.devices.managedguest,User experience,NO,ORG_UNIT,,Previously installed app recommendations.
+chrome.devices.managedguest.apps.AccessToKeys,chrome.devices.managedguest,Managed guest session apps,NO,ORG_UNIT,,Allows setting of whether the app can access client keys.
+chrome.devices.managedguest.apps.AppInstallationUrl,chrome.devices.managedguest,Managed guest session apps,NO,ORG_UNIT,,Specifies the url from which to install a self hosted Chrome Extension.
+chrome.devices.managedguest.apps.CertificateManagement,chrome.devices.managedguest,Managed guest session apps,NO,ORG_UNIT,,Allows setting of certificate management related permissions.
+chrome.devices.managedguest.apps.DefaultLaunchContainer,chrome.devices.managedguest,Managed guest session apps,NO,ORG_UNIT,,Allows setting of the default launch container for web apps.
+chrome.devices.managedguest.apps.EnterpriseChallenge,chrome.devices.managedguest,Managed guest session apps,NO,ORG_UNIT,,Allows setting of whether the app can challenge enterprise keys.
+chrome.devices.managedguest.apps.FileUrlNavigationAllowed,chrome.devices.managedguest,Managed guest session apps,NO,ORG_UNIT,,Controls whether an extension can access file URLs.
+chrome.devices.managedguest.apps.IncludeInChromeWebStoreCollection,chrome.devices.managedguest,Managed guest session apps,NO,ORG_UNIT,,Specifies whether the Chrome Application should appear in the Chrome Web Store collection.
+chrome.devices.managedguest.apps.InstallationUrl,chrome.devices.managedguest,Managed guest session apps,NO,ORG_UNIT,,Specifies the url from which to install a self hosted Chrome Extension.
+chrome.devices.managedguest.apps.InstallType,chrome.devices.managedguest,Managed guest session apps,NO,ORG_UNIT,,Specifies the manner in which the app is to be installed. Note: It's required in order to add an App or Extension to the set of managed apps & extensions of an Organizational Unit.
+chrome.devices.managedguest.apps.ManagedConfiguration,chrome.devices.managedguest,Managed guest session apps,NO,ORG_UNIT,,Allows setting of the managed configuration.
+chrome.devices.managedguest.apps.OverrideInstallationUrl,chrome.devices.managedguest,Managed guest session apps,NO,ORG_UNIT,,Allows overriding of the url from which to install a self hosted Chrome Extension.
+chrome.devices.managedguest.apps.PermissionsAndUrlAccess,chrome.devices.managedguest,Managed guest session apps,NO,ORG_UNIT,,Allows setting of allowed and blocked hosts.
+chrome.devices.managedguest.apps.SkipDocumentScanConfirmation,chrome.devices.managedguest,Managed guest session apps,NO,ORG_UNIT,,Allows the app to skip the confirmation dialog when using the Document Scan API.
+chrome.devices.managedguest.apps.SkipPrintConfirmation,chrome.devices.managedguest,Managed guest session apps,NO,ORG_UNIT,,Allows the app to skip the confirmation dialog when sending print jobs via the Chrome Printing API.
+chrome.devices.managedguest.AssistantWebEnabled,chrome.devices.managedguest,User experience,NO,ORG_UNIT,,Allow using Google Assistant on the web.
+chrome.devices.managedguest.AudioCaptureAllowedUrls,chrome.devices.managedguest,Hardware,NO,ORG_UNIT,,Audio input allowed URLs.
+chrome.devices.managedguest.AudioInput,chrome.devices.managedguest,Hardware,NO,ORG_UNIT,,Audio input (microphone).
+chrome.devices.managedguest.AudioOutput,chrome.devices.managedguest,Hardware,NO,ORG_UNIT,,Audio output.
+chrome.devices.managedguest.AuthenticationServerAllowlist,chrome.devices.managedguest,Network,NO,ORG_UNIT,,Integrated authentication servers.
+chrome.devices.managedguest.AutoclickEnabled,chrome.devices.managedguest,Accessibility,NO,ORG_UNIT,,Auto-click enabled.
+chrome.devices.managedguest.AutofillAddressEnabled,chrome.devices.managedguest,User experience,NO,ORG_UNIT,,Address form autofill.
+chrome.devices.managedguest.AutofillCreditCardEnabled,chrome.devices.managedguest,User experience,NO,ORG_UNIT,,Credit card form autofill.
+chrome.devices.managedguest.AutomaticFullscreen,chrome.devices.managedguest,User experience,NO,ORG_UNIT,,Automatic fullscreen.
+chrome.devices.managedguest.AutoOpen,chrome.devices.managedguest,Content,NO,ORG_UNIT,,Auto open downloaded files.
+chrome.devices.managedguest.AutoplayAllowlist,chrome.devices.managedguest,Content,NO,ORG_UNIT,,Autoplay video.
+chrome.devices.managedguest.Avatar,chrome.devices.managedguest,General,NO,ORG_UNIT,,Custom avatar.
+chrome.devices.managedguest.BeforeunloadEventCancelByPreventDefaultEnabled,chrome.devices.managedguest,Legacy Site Compatibility,NO,ORG_UNIT,,Behavior of event.preventDefault() for beforeunload event.
+chrome.devices.managedguest.BookmarkBarEnabled,chrome.devices.managedguest,User experience,NO,ORG_UNIT,,Bookmark bar.
+chrome.devices.managedguest.BrowserHistory,chrome.devices.managedguest,Security,NO,ORG_UNIT,,Browser history.
+chrome.devices.managedguest.BrowsingDataLifetime,chrome.devices.managedguest,Security,NO,ORG_UNIT,,Browsing Data Lifetime.
+chrome.devices.managedguest.BrowsingDataLifetimeV2,chrome.devices.managedguest,Security,NO,ORG_UNIT,,Browsing Data Lifetime.
+chrome.devices.managedguest.BuiltInAiApisEnabled,chrome.devices.managedguest,Generative AI,NO,ORG_UNIT,,Built-in AI APIs.
+chrome.devices.managedguest.BuiltInDnsClientEnabled,chrome.devices.managedguest,Network,NO,ORG_UNIT,,Built-in DNS client.
+chrome.devices.managedguest.CaptivePortalAuthenticationIgnoresProxy,chrome.devices.managedguest,Network,NO,ORG_UNIT,,Ignore proxy on captive portals.
+chrome.devices.managedguest.CaretHighlightEnabled,chrome.devices.managedguest,Accessibility,NO,ORG_UNIT,,Caret highlight.
+chrome.devices.managedguest.Cecpq2Enabled,chrome.devices.managedguest,Network,NO,ORG_UNIT,,CECPQ2 post-quantum key-agreement for TLS.
+chrome.devices.managedguest.CertificateSynchronization,chrome.devices.managedguest,Android apps,NO,ORG_UNIT,,Certificate synchronization.
+chrome.devices.managedguest.ChromeAppsWebViewPermissiveBehaviorAllowed,chrome.devices.managedguest,Legacy Site Compatibility,NO,ORG_UNIT,,Restore permissive Chrome Apps behavior.
+chrome.devices.managedguest.ClientCertificates,chrome.devices.managedguest,Content,NO,ORG_UNIT,,Client certificates.
+chrome.devices.managedguest.ClipboardSettings,chrome.devices.managedguest,Content,NO,ORG_UNIT,,Clipboard.
+chrome.devices.managedguest.ColorCorrectionEnabled,chrome.devices.managedguest,Accessibility,NO,ORG_UNIT,,Color Correction.
+chrome.devices.managedguest.CompressionDictionaryTransportEnabled,chrome.devices.managedguest,Content,NO,ORG_UNIT,,Compression dictionary transport support.
+chrome.devices.managedguest.CpuPerformanceTierOverride,chrome.devices.managedguest,Other settings,NO,ORG_UNIT,,CPU performance tier override.
+chrome.devices.managedguest.CpuTaskScheduler,chrome.devices.managedguest,Security,NO,ORG_UNIT,,CPU task scheduler.
+chrome.devices.managedguest.CssCustomStateDeprecatedSyntaxEnabled,chrome.devices.managedguest,Content,NO,ORG_UNIT,,CSS custom state deprecated syntax.
+chrome.devices.managedguest.CursorHighlightEnabled,chrome.devices.managedguest,Accessibility,NO,ORG_UNIT,,Cursor highlight.
+chrome.devices.managedguest.CustomTermsOfService,chrome.devices.managedguest,General,NO,ORG_UNIT,,Custom terms of service.
+chrome.devices.managedguest.DataLeakPreventionReportingEnabled,chrome.devices.managedguest,Data controls,NO,ORG_UNIT,,Data controls reporting.
+chrome.devices.managedguest.DataUrlInSvgUseEnabled,chrome.devices.managedguest,Security,NO,ORG_UNIT,,Data URL support for SVGUseElement.
+chrome.devices.managedguest.DataUrlInWebWorkerOpaqueOriginEnabled,chrome.devices.managedguest,Legacy Site Compatibility,NO,ORG_UNIT,,Opaque origins for data URL web workers.
+chrome.devices.managedguest.DataUrlWhitespacePreservationEnabled,chrome.devices.managedguest,Security,NO,ORG_UNIT,,Data URL whitespace preservation for all media types.
+chrome.devices.managedguest.DefaultInsecureContentSetting,chrome.devices.managedguest,Content,NO,ORG_UNIT,,Control use of insecure content exceptions.
+chrome.devices.managedguest.DefaultPrintColor,chrome.devices.managedguest,Printing,NO,ORG_UNIT,,Default color printing mode.
+chrome.devices.managedguest.DefaultPrintDuplexMode,chrome.devices.managedguest,Printing,NO,ORG_UNIT,,Default page sides.
+chrome.devices.managedguest.DefaultPrinters,chrome.devices.managedguest,Printing,NO,ORG_UNIT,,Print preview default.
+chrome.devices.managedguest.DefaultSensorsSetting,chrome.devices.managedguest,Hardware,NO,ORG_UNIT,,Sensors.
+chrome.devices.managedguest.DeleteKeyModifier,chrome.devices.managedguest,Accessibility,NO,ORG_UNIT,,"Control the shortcut used to trigger the Delete ""six pack"" key."
+chrome.devices.managedguest.DeletePrintJobHistoryAllowed,chrome.devices.managedguest,Printing,NO,ORG_UNIT,,Print job history deletion.
+chrome.devices.managedguest.DeveloperTools,chrome.devices.managedguest,User experience,NO,ORG_UNIT,,Developer tools.
+chrome.devices.managedguest.DeveloperToolsAvailabilityUrls,chrome.devices.managedguest,User experience,NO,ORG_UNIT,,Developer tools URL restrictions.
+chrome.devices.managedguest.DeviceAllowMgsToStoreDisplayProperties,chrome.devices.managedguest,User experience,NO,ORG_UNIT,,Persist display settings.
+chrome.devices.managedguest.DevToolsGoogleDeveloperProgramProfileAvailability,chrome.devices.managedguest,User experience,NO,ORG_UNIT,,Google Developer Program integration in DevTools.
+chrome.devices.managedguest.DictationEnabled,chrome.devices.managedguest,Accessibility,NO,ORG_UNIT,,Dictation.
+chrome.devices.managedguest.DisableSafeBrowsingProceedAnyway,chrome.devices.managedguest,Chrome Safe Browsing,NO,ORG_UNIT,,Disable bypassing Safe Browsing warnings.
+chrome.devices.managedguest.DisplayCapturePermissionsPolicyEnabled,chrome.devices.managedguest,Security,NO,ORG_UNIT,,Insecure Media Capture.
+chrome.devices.managedguest.DnsInterceptionChecksEnabled,chrome.devices.managedguest,Network,NO,ORG_UNIT,,DNS interception checks enabled.
+chrome.devices.managedguest.DnsOverHttps,chrome.devices.managedguest,Network,NO,ORG_UNIT,,DNS over HTTPS.
+chrome.devices.managedguest.DnsOverHttpsDomainConfig,chrome.devices.managedguest,Network,NO,ORG_UNIT,,DNS over HTTPS included and excluded domains.
+chrome.devices.managedguest.DnsOverHttpsTemplatesWithIdentifiers,chrome.devices.managedguest,Network,NO,ORG_UNIT,,DNS-over-HTTPS with identifiers.
+chrome.devices.managedguest.DownloadBubbleEnabled,chrome.devices.managedguest,User experience,NO,ORG_UNIT,,Download bubble.
+chrome.devices.managedguest.DownloadRestrictions,chrome.devices.managedguest,Chrome Safe Browsing,NO,ORG_UNIT,,Download restrictions.
+chrome.devices.managedguest.EmojiPickerGifSupportEnabled,chrome.devices.managedguest,User experience,NO,ORG_UNIT,,GIF Support in Emoji Picker.
+chrome.devices.managedguest.EmojiSuggestionEnabled,chrome.devices.managedguest,User experience,NO,ORG_UNIT,,Emoji suggestions.
+chrome.devices.managedguest.EnableCaptureAllowedSettings,chrome.devices.managedguest,Content,NO,ORG_UNIT,,Screen video capture allowed by sites.
+chrome.devices.managedguest.EnableDeprecatedPrivetPrinting,chrome.devices.managedguest,Printing,NO,ORG_UNIT,,Deprecated privet printing.
+chrome.devices.managedguest.EncryptedClientHelloEnabled,chrome.devices.managedguest,Security,NO,ORG_UNIT,,TLS encrypted ClientHello.
+chrome.devices.managedguest.EnhancedNetworkVoicesInSelectToSpeakAllowed,chrome.devices.managedguest,User experience,NO,ORG_UNIT,,Select-to-speak.
+chrome.devices.managedguest.EnterpriseHardwarePlatformApiEnabled,chrome.devices.managedguest,Hardware,NO,ORG_UNIT,,Enterprise Hardware Platform API.
+chrome.devices.managedguest.EventPathEnabled,chrome.devices.managedguest,Content,NO,ORG_UNIT,,Re-enable the Event.path API until Chrome 115.
+chrome.devices.managedguest.ExplicitlyAllowedNetworkPorts,chrome.devices.managedguest,Network,NO,ORG_UNIT,,Allowed network ports.
+chrome.devices.managedguest.ExtensionExtendedBackgroundLifetimeForPortConnectionsToUrls,chrome.devices.managedguest,Apps and extensions,NO,ORG_UNIT,,Extended background lifetime.
+chrome.devices.managedguest.ExtensionManifestVTwoAvailability,chrome.devices.managedguest,Apps and extensions,NO,ORG_UNIT,,Manifest V2 extension availability.
+chrome.devices.managedguest.ExternalStorage,chrome.devices.managedguest,Hardware,NO,ORG_UNIT,,External storage devices.
+chrome.devices.managedguest.FaceGazeEnabled,chrome.devices.managedguest,Accessibility,NO,ORG_UNIT,,Face control.
+chrome.devices.managedguest.FastPairEnabled,chrome.devices.managedguest,Other settings,NO,ORG_UNIT,,Fast Pair (fast Bluetooth pairing).
+chrome.devices.managedguest.FeedbackSurveysEnabled,chrome.devices.managedguest,Other settings,NO,ORG_UNIT,,Google Chrome surveys.
+chrome.devices.managedguest.FElevenKeyModifier,chrome.devices.managedguest,Accessibility,NO,ORG_UNIT,,Control the shortcut used to trigger F11.
+chrome.devices.managedguest.FileOrDirectoryPickerWithoutGestureAllowedForOrigins,chrome.devices.managedguest,Security,NO,ORG_UNIT,,File/directory picker without user gesture.
+chrome.devices.managedguest.FileSystemRead,chrome.devices.managedguest,Hardware,NO,ORG_UNIT,,File system read access.
+chrome.devices.managedguest.FileSystemSyncAccessHandleAsyncInterfaceEnabled,chrome.devices.managedguest,Hardware,NO,ORG_UNIT,,File System Access API async interface.
+chrome.devices.managedguest.FileSystemWrite,chrome.devices.managedguest,Hardware,NO,ORG_UNIT,,File system write access.
+chrome.devices.managedguest.FocusModeSoundsEnabled,chrome.devices.managedguest,User experience,NO,ORG_UNIT,,Sounds in Focus Mode.
+chrome.devices.managedguest.ForceEnablePepperVideoDecoderDevApi,chrome.devices.managedguest,Content,NO,ORG_UNIT,,PPB_VideoDecoder(Dev) API support.
+chrome.devices.managedguest.ForceMajorVersionToMinorPositionInUserAgent,chrome.devices.managedguest,Network,NO,ORG_UNIT,,Freeze User-Agent string version.
+chrome.devices.managedguest.ForceMaximizeOnFirstRun,chrome.devices.managedguest,User experience,NO,ORG_UNIT,,Maximize window on first run.
+chrome.devices.managedguest.ForcePermissionPolicyUnloadDefaultEnabled,chrome.devices.managedguest,Legacy Site Compatibility,NO,ORG_UNIT,,Unload event handlers.
+chrome.devices.managedguest.FTwelveKeyModifier,chrome.devices.managedguest,Accessibility,NO,ORG_UNIT,,Control the shortcut used to trigger F12.
+chrome.devices.managedguest.FullscreenAllowed,chrome.devices.managedguest,User experience,NO,ORG_UNIT,,Fullscreen mode.
+chrome.devices.managedguest.GenAiDefaultSettings,chrome.devices.managedguest,Generative AI,NO,ORG_UNIT,,Generative AI policy defaults.
+chrome.devices.managedguest.GenAiVcBackgroundSettings,chrome.devices.managedguest,Generative AI,NO,ORG_UNIT,,Video conference background settings.
+chrome.devices.managedguest.GenAiWallpaperSettings,chrome.devices.managedguest,Generative AI,NO,ORG_UNIT,,Wallpaper settings.
+chrome.devices.managedguest.Geolocation,chrome.devices.managedguest,Security,NO,ORG_UNIT,,Geolocation.
+chrome.devices.managedguest.GloballyScopeHttpAuthCacheEnabled,chrome.devices.managedguest,Network,NO,ORG_UNIT,,Globally scoped HTTP authentication cache.
+chrome.devices.managedguest.GoogleCast,chrome.devices.managedguest,Content,NO,ORG_UNIT,,Cast.
+chrome.devices.managedguest.GoogleDriveSyncing,chrome.devices.managedguest,Content,NO,ORG_UNIT,,Google Drive syncing.
+chrome.devices.managedguest.GoogleSearchSidePanelEnabled,chrome.devices.managedguest,Omnibox search provider,NO,ORG_UNIT,,Side Panel search.
+chrome.devices.managedguest.HighContrastEnabled,chrome.devices.managedguest,Accessibility,NO,ORG_UNIT,,High contrast.
+chrome.devices.managedguest.HighEfficiencyModeEnabled,chrome.devices.managedguest,Other settings,NO,ORG_UNIT,,High efficiency mode.
+chrome.devices.managedguest.HomeAndEndKeysModifier,chrome.devices.managedguest,Accessibility,NO,ORG_UNIT,,"Control the shortcut used to trigger the Home/End ""six pack"" keys."
+chrome.devices.managedguest.HomeButton,chrome.devices.managedguest,Startup,NO,ORG_UNIT,,Home button.
+chrome.devices.managedguest.Homepage,chrome.devices.managedguest,Startup,NO,ORG_UNIT,,Homepage.
+chrome.devices.managedguest.HstsPolicyBypassList,chrome.devices.managedguest,Network,NO,ORG_UNIT,,HSTS policy bypass list.
+chrome.devices.managedguest.IdleSettingsExtended,chrome.devices.managedguest,Power and shutdown,NO,ORG_UNIT,,Idle settings.
+chrome.devices.managedguest.IncognitoMode,chrome.devices.managedguest,Security,NO,ORG_UNIT,,Incognito mode.
+chrome.devices.managedguest.IncognitoModeUrlList,chrome.devices.managedguest,Security,NO,ORG_UNIT,,Incognito mode URL restrictions.
+chrome.devices.managedguest.InsecureContentAllowedForUrls,chrome.devices.managedguest,Content,NO,ORG_UNIT,,Allow insecure content on these sites.
+chrome.devices.managedguest.InsecureContentBlockedForUrls,chrome.devices.managedguest,Content,NO,ORG_UNIT,,Block insecure content on these sites.
+chrome.devices.managedguest.InsecureFormsWarningsEnabled,chrome.devices.managedguest,Content,NO,ORG_UNIT,,Insecure forms.
+chrome.devices.managedguest.InsecureHashesInTlsHandshakesEnabled,chrome.devices.managedguest,Security,NO,ORG_UNIT,,Insecure hashes in TLS handshakes.
+chrome.devices.managedguest.InsecurePrivateNetworkRequestsAllowed,chrome.devices.managedguest,Content,NO,ORG_UNIT,,Requests from insecure websites to more-private network endpoints.
+chrome.devices.managedguest.InsertKeyModifier,chrome.devices.managedguest,Accessibility,NO,ORG_UNIT,,"Control the shortcut used to trigger the Insert ""six pack"" key."
+chrome.devices.managedguest.IntensiveWakeUpThrottlingEnabled,chrome.devices.managedguest,Content,NO,ORG_UNIT,,Javascript IntensiveWakeUpThrottling.
+chrome.devices.managedguest.IntranetRedirectBehavior,chrome.devices.managedguest,Network,NO,ORG_UNIT,,Intranet Redirection Behavior.
+chrome.devices.managedguest.JavaScriptJitSettings,chrome.devices.managedguest,Content,NO,ORG_UNIT,,JavaScript JIT.
+chrome.devices.managedguest.KeepFullscreenWithoutNotificationUrlAllowList,chrome.devices.managedguest,User experience,NO,ORG_UNIT,,Fullscreen after unlock.
+chrome.devices.managedguest.KerberosCustomPrefilledConfigSettingGroup,chrome.devices.managedguest,Kerberos,NO,ORG_UNIT,,Kerberos ticket default configuration.
+chrome.devices.managedguest.KerberosDomainAutocomplete,chrome.devices.managedguest,Kerberos,NO,ORG_UNIT,,Autocomplete Kerberos domain.
+chrome.devices.managedguest.KerberosTickets,chrome.devices.managedguest,Kerberos,NO,ORG_UNIT,,Kerberos tickets.
+chrome.devices.managedguest.KeyboardFocusableScrollersEnabled,chrome.devices.managedguest,User experience,NO,ORG_UNIT,,Keyboard focusable scrollers.
+chrome.devices.managedguest.KeyboardFocusHighlightEnabled,chrome.devices.managedguest,Accessibility,NO,ORG_UNIT,,Keyboard focus highlighting.
+chrome.devices.managedguest.KeyboardFunctionKeys,chrome.devices.managedguest,Hardware,NO,ORG_UNIT,,Keyboard.
+chrome.devices.managedguest.LargeCursorEnabled,chrome.devices.managedguest,Accessibility,NO,ORG_UNIT,,Large cursor.
+chrome.devices.managedguest.LensDesktopNtpSearchEnabled,chrome.devices.managedguest,Startup,NO,ORG_UNIT,,New Tab page Google Lens button.
+chrome.devices.managedguest.LensOnGalleryEnabled,chrome.devices.managedguest,User experience,NO,ORG_UNIT,,Lens Gallery App integration.
+chrome.devices.managedguest.LensOverlaySettings,chrome.devices.managedguest,User experience,NO,ORG_UNIT,,Google Lens Overlay.
+chrome.devices.managedguest.LensRegionSearchEnabled,chrome.devices.managedguest,User experience,NO,ORG_UNIT,,Google Lens region search.
+chrome.devices.managedguest.LoadCryptoTokenExtension,chrome.devices.managedguest,Content,NO,ORG_UNIT,,Re-enable CryptoToken component extension until Chrome 107.
+chrome.devices.managedguest.LocalNetworkAccessIpAddressSpaceOverrides,chrome.devices.managedguest,Network,NO,ORG_UNIT,,IP address space overrides.
+chrome.devices.managedguest.LocalNetworkAccessPermissionsPolicyDefaultEnabled,chrome.devices.managedguest,Network,NO,ORG_UNIT,,Local Network Access permissions for subframes.
+chrome.devices.managedguest.LocalNetworkAccessRestrictionsEnabled,chrome.devices.managedguest,Network,NO,ORG_UNIT,,Local Network Access restrictions.
+chrome.devices.managedguest.LocalNetworkAccessRestrictionsTemporaryOptOut,chrome.devices.managedguest,Legacy Site Compatibility,NO,ORG_UNIT,,Opt out of Local Network Access restrictions.
+chrome.devices.managedguest.LocalNetworkUrls,chrome.devices.managedguest,Network,NO,ORG_UNIT,,Local Network URLs.
+chrome.devices.managedguest.LockIconInAddressBarEnabled,chrome.devices.managedguest,User experience,NO,ORG_UNIT,,Lock icon in the omnibox for secure connections.
+chrome.devices.managedguest.LookalikeWarningAllowlistDomains,chrome.devices.managedguest,Chrome Safe Browsing,NO,ORG_UNIT,,Suppress lookalike domain warnings on domains.
+chrome.devices.managedguest.LoopbackNetworkUrls,chrome.devices.managedguest,Network,NO,ORG_UNIT,,Loopback network URLs.
+chrome.devices.managedguest.ManagedBookmarksSetting,chrome.devices.managedguest,User experience,NO,ORG_UNIT,,Managed bookmarks.
+chrome.devices.managedguest.ManagedGuestSession,chrome.devices.managedguest,General,NO,ORG_UNIT,,Managed guest session.
+chrome.devices.managedguest.ManagedGuestSessionV2,chrome.devices.managedguest,General,NO,ORG_UNIT,,Managed guest session.
+chrome.devices.managedguest.MaxConnectionsPerProxyForWebSocket,chrome.devices.managedguest,Network,NO,ORG_UNIT,,Max WebSocket connections per proxy.
+chrome.devices.managedguest.MaxInvalidationFetchDelay,chrome.devices.managedguest,Other settings,NO,ORG_UNIT,,Policy fetch delay.
+chrome.devices.managedguest.MaxInvalidationFetchDelayV2,chrome.devices.managedguest,Other settings,NO,ORG_UNIT,,Policy fetch delay.
+chrome.devices.managedguest.MemorySaverModeSavings,chrome.devices.managedguest,User experience,NO,ORG_UNIT,,Memory saver.
+chrome.devices.managedguest.MonoAudioEnabled,chrome.devices.managedguest,Accessibility,NO,ORG_UNIT,,Mono audio.
+chrome.devices.managedguest.MultiScreenCaptureAllowedForUrls,chrome.devices.managedguest,Security,NO,ORG_UNIT,,URLs allowed for multi-screen capture .
+chrome.devices.managedguest.MutationEventsEnabled,chrome.devices.managedguest,Legacy Site Compatibility,NO,ORG_UNIT,,Mutation Events.
+chrome.devices.managedguest.NativeClientForceAllowed,chrome.devices.managedguest,Content,NO,ORG_UNIT,,Allow Native Client (NaCl).
+chrome.devices.managedguest.NetworkFileShares,chrome.devices.managedguest,Content,NO,ORG_UNIT,,Network file shares.
+chrome.devices.managedguest.NewBaseUrlInheritanceBehaviorAllowed,chrome.devices.managedguest,Security,NO,ORG_UNIT,,Enable the feature NewBaseUrlInheritanceBehavior.
+chrome.devices.managedguest.NewTabPageLocation,chrome.devices.managedguest,Startup,NO,ORG_UNIT,,New tab page.
+chrome.devices.managedguest.Notifications,chrome.devices.managedguest,Content,NO,ORG_UNIT,,Notifications.
+chrome.devices.managedguest.OnBulkTextEntryConnectorPolicy,chrome.devices.managedguest,Chrome Enterprise connectors,NO,ORG_UNIT,,Bulk text entry content analysis setting.
+chrome.devices.managedguest.OnFileAttachedConnectorPolicy,chrome.devices.managedguest,Chrome Enterprise connectors,NO,ORG_UNIT,,File upload content analysis setting.
+chrome.devices.managedguest.OnFileDownloadedConnectorPolicy,chrome.devices.managedguest,Chrome Enterprise connectors,NO,ORG_UNIT,,File download content analysis setting.
+chrome.devices.managedguest.OnPrintAnalysisConnectorPolicy,chrome.devices.managedguest,Chrome Enterprise connectors,NO,ORG_UNIT,,Print content analysis setting.
+chrome.devices.managedguest.OnSecurityEvent,chrome.devices.managedguest,Browser reporting,NO,ORG_UNIT,,Event reporting.
+chrome.devices.managedguest.OptimizationGuideFetchingEnabled,chrome.devices.managedguest,Content,NO,ORG_UNIT,,Optimization Guide Fetching.
+chrome.devices.managedguest.OriginAgentClusterDefaultEnabled,chrome.devices.managedguest,Security,NO,ORG_UNIT,,Origin-keyed agent clustering.
+chrome.devices.managedguest.OsColorMode,chrome.devices.managedguest,User experience,NO,ORG_UNIT,,ChromeOS color mode.
+chrome.devices.managedguest.OverrideSecurityRestrictionsOnInsecureOrigin,chrome.devices.managedguest,Security,NO,ORG_UNIT,,Override insecure origin restrictions.
+chrome.devices.managedguest.PageUpAndPageDownKeysModifier,chrome.devices.managedguest,Accessibility,NO,ORG_UNIT,,"Control the shortcut used to trigger the PageUp/PageDown ""six pack"" keys."
+chrome.devices.managedguest.PaymentMethodQueryEnabled,chrome.devices.managedguest,User experience,NO,ORG_UNIT,,Payment methods.
+chrome.devices.managedguest.PdfLocalFileAccessAllowedForDomains,chrome.devices.managedguest,Content,NO,ORG_UNIT,,Local file access to file:// URLs in the PDF Viewer.
+chrome.devices.managedguest.PdfUseSkiaRendererEnabled,chrome.devices.managedguest,Content,NO,ORG_UNIT,,Renderer for PDF files.
+chrome.devices.managedguest.PhysicalKeyboardAutocorrect,chrome.devices.managedguest,User experience,NO,ORG_UNIT,,Physical keyboard autocorrect.
+chrome.devices.managedguest.PhysicalKeyboardPredictiveWriting,chrome.devices.managedguest,User experience,NO,ORG_UNIT,,Physical keyboard predictive writing.
+chrome.devices.managedguest.Popups,chrome.devices.managedguest,Content,NO,ORG_UNIT,,Pop-ups.
+chrome.devices.managedguest.PostQuantumKeyAgreementEnabled,chrome.devices.managedguest,Security,NO,ORG_UNIT,,Post-quantum TLS.
+chrome.devices.managedguest.PowerManagementUsesAudioActivity,chrome.devices.managedguest,Power and shutdown,NO,ORG_UNIT,,Power management uses audio activity.
+chrome.devices.managedguest.PowerManagementUsesVideoActivity,chrome.devices.managedguest,Power and shutdown,NO,ORG_UNIT,,Power management uses video activity.
+chrome.devices.managedguest.PpapiSharedImagesForVideoDecoderAllowed,chrome.devices.managedguest,Content,NO,ORG_UNIT,,Allow Pepper to use shared images for video decoding.
+chrome.devices.managedguest.PpApiSharedImagesSwapChainAllowed,chrome.devices.managedguest,Content,NO,ORG_UNIT,,Modern buffer allocation for Graphics3D APIs PPAPI plugin.
+chrome.devices.managedguest.PrefetchWithServiceWorkerEnabled,chrome.devices.managedguest,Legacy Site Compatibility,NO,ORG_UNIT,,Allow SpeculationRules prefetch to ServiceWorker-controlled URLs.
+chrome.devices.managedguest.PrefixedStorageInfoEnabled,chrome.devices.managedguest,Content,NO,ORG_UNIT,,Re-enable window.webkitStorageInfo API.
+chrome.devices.managedguest.PrefixedVideoFullscreenApiAvailability,chrome.devices.managedguest,Legacy Site Compatibility,NO,ORG_UNIT,,Prefixed video fullscreen API.
+chrome.devices.managedguest.PrimaryMouseButtonSwitch,chrome.devices.managedguest,Accessibility,NO,ORG_UNIT,,Primary mouse button.
+chrome.devices.managedguest.PrinterTypeDenyList,chrome.devices.managedguest,Printing,NO,ORG_UNIT,,Blocked printer types.
+chrome.devices.managedguest.PrintHeaderFooter,chrome.devices.managedguest,Printing,NO,ORG_UNIT,,Print headers and footers.
+chrome.devices.managedguest.PrintingAllowedBackgroundGraphicsModes,chrome.devices.managedguest,Printing,NO,ORG_UNIT,,Background graphics printing restriction.
+chrome.devices.managedguest.PrintingAllowedPinModes,chrome.devices.managedguest,Printing,NO,ORG_UNIT,,Restrict PIN printing mode.
+chrome.devices.managedguest.PrintingBackgroundGraphicsDefault,chrome.devices.managedguest,Printing,NO,ORG_UNIT,,Background graphics printing default.
+chrome.devices.managedguest.PrintingMaxSheetsAllowed,chrome.devices.managedguest,Printing,NO,ORG_UNIT,,Maximum sheets.
+chrome.devices.managedguest.PrintingPaperSizeDefault,chrome.devices.managedguest,Printing,NO,ORG_UNIT,,Default printing page size.
+chrome.devices.managedguest.PrintingPinDefault,chrome.devices.managedguest,Printing,NO,ORG_UNIT,,Default PIN printing mode.
+chrome.devices.managedguest.PrintJobHistoryExpirationPeriodNew,chrome.devices.managedguest,Printing,NO,ORG_UNIT,,Print job history retention period.
+chrome.devices.managedguest.PrintJobHistoryExpirationPeriodNewV2,chrome.devices.managedguest,Printing,NO,ORG_UNIT,,Print job history retention period.
+chrome.devices.managedguest.PrintPdfAsImage,chrome.devices.managedguest,Printing,NO,ORG_UNIT,,Print PDF as image.
+chrome.devices.managedguest.PrivacyScreenEnabled,chrome.devices.managedguest,Hardware,NO,ORG_UNIT,,Privacy screen.
+chrome.devices.managedguest.PrivateNetworkAccessRestrictionsEnabled,chrome.devices.managedguest,Network,NO,ORG_UNIT,,Private Network Access restrictions.
+chrome.devices.managedguest.PromptForDownloadLocation,chrome.devices.managedguest,User experience,NO,ORG_UNIT,,Download location prompt.
+chrome.devices.managedguest.ProtectedContentIdentifiersAllowed,chrome.devices.managedguest,Content,NO,ORG_UNIT,,Protected content playback.
+chrome.devices.managedguest.QrCodeGeneratorEnabled,chrome.devices.managedguest,General,NO,ORG_UNIT,,QR Code Generator.
+chrome.devices.managedguest.QuickAnswersEnabled,chrome.devices.managedguest,User experience,NO,ORG_UNIT,,Quick Answers.
+chrome.devices.managedguest.QuicProtocol,chrome.devices.managedguest,Network,NO,ORG_UNIT,,QUIC protocol.
+chrome.devices.managedguest.RealtimeUrlCheck,chrome.devices.managedguest,Chrome Enterprise connectors,NO,ORG_UNIT,,Real time URL check.
+chrome.devices.managedguest.RemoteAccessHostAllowEnterpriseRemoteSupportConnections,chrome.devices.managedguest,Remote access,NO,ORG_UNIT,,Enterprise remote support connections.
+chrome.devices.managedguest.RemoteAccessHostAllowRemoteSupportConnections,chrome.devices.managedguest,Remote access,NO,ORG_UNIT,,Remote support connections.
+chrome.devices.managedguest.RemoteAccessHostClientDomainList,chrome.devices.managedguest,Remote access,NO,ORG_UNIT,,Remote access clients.
+chrome.devices.managedguest.RemoteAccessHostClipboardSizeBytes,chrome.devices.managedguest,Remote access,NO,ORG_UNIT,,Clipboard sync max size.
+chrome.devices.managedguest.RemoteAccessHostDomainList,chrome.devices.managedguest,Remote access,NO,ORG_UNIT,,Remote access hosts.
+chrome.devices.managedguest.RemoteAccessHostFirewallTraversal,chrome.devices.managedguest,Remote access,NO,ORG_UNIT,,Firewall traversal.
+chrome.devices.managedguest.RemoteDebuggingAllowed,chrome.devices.managedguest,Security,NO,ORG_UNIT,,Allow remote debugging.
+chrome.devices.managedguest.RequireOnlineRevocationChecksForLocalAnchors,chrome.devices.managedguest,Network,NO,ORG_UNIT,,Require online OCSP/CRL checks for local trust anchors.
+chrome.devices.managedguest.RestrictPrintColor,chrome.devices.managedguest,Printing,NO,ORG_UNIT,,Restrict color printing mode.
+chrome.devices.managedguest.RestrictPrintDuplexMode,chrome.devices.managedguest,Printing,NO,ORG_UNIT,,Restrict page sides.
+chrome.devices.managedguest.RsaKeyUsageForLocalAnchorsEnabled,chrome.devices.managedguest,Legacy Site Compatibility,NO,ORG_UNIT,,Check RSA key usage.
+chrome.devices.managedguest.SafeBrowsingProtectionLevel,chrome.devices.managedguest,Chrome Safe Browsing,NO,ORG_UNIT,,Safe Browsing protection.
+chrome.devices.managedguest.SafeBrowsingSurveysEnabled,chrome.devices.managedguest,Chrome Safe Browsing,NO,ORG_UNIT,,Safe Browsing Surveys.
+chrome.devices.managedguest.SafeSearchRestrictedMode,chrome.devices.managedguest,Content,NO,ORG_UNIT,,SafeSearch and Restricted Mode.
+chrome.devices.managedguest.SafeSitesFilterBehavior,chrome.devices.managedguest,Chrome Safe Browsing,NO,ORG_UNIT,,SafeSites URL filter.
+chrome.devices.managedguest.SandboxExternalProtocolBlocked,chrome.devices.managedguest,Content,NO,ORG_UNIT,,iframe navigation.
+chrome.devices.managedguest.ScreenBrightnessPercent,chrome.devices.managedguest,Security,NO,ORG_UNIT,,Screen brightness.
+chrome.devices.managedguest.ScreenCaptureAllowed,chrome.devices.managedguest,Content,NO,ORG_UNIT,,Screen video capture.
+chrome.devices.managedguest.ScreenCaptureWithoutGestureAllowedForOrigins,chrome.devices.managedguest,Security,NO,ORG_UNIT,,Media picker without user gesture.
+chrome.devices.managedguest.ScreenMagnifierType,chrome.devices.managedguest,Accessibility,NO,ORG_UNIT,,Screen magnifier.
+chrome.devices.managedguest.ScreensaverLockScreenEnabled,chrome.devices.managedguest,Power and shutdown,NO,ORG_UNIT,,Screen saver.
+chrome.devices.managedguest.Screenshot,chrome.devices.managedguest,Content,NO,ORG_UNIT,,Screenshot.
+chrome.devices.managedguest.ScrollToTextFragmentEnabled,chrome.devices.managedguest,Content,NO,ORG_UNIT,,Scroll to text fragment.
+chrome.devices.managedguest.SearchContentSharingSettings,chrome.devices.managedguest,Generative AI,NO,ORG_UNIT,,Google AI Mode content sharing.
+chrome.devices.managedguest.SearchSuggest,chrome.devices.managedguest,Omnibox search provider,NO,ORG_UNIT,,Search suggest.
+chrome.devices.managedguest.SecurityTokenSessionSettings,chrome.devices.managedguest,Security,NO,ORG_UNIT,,Security token removal.
+chrome.devices.managedguest.SecurityTokenSessionSettingsV2,chrome.devices.managedguest,Security,NO,ORG_UNIT,,Security token removal.
+chrome.devices.managedguest.SelectToSpeakEnabled,chrome.devices.managedguest,Accessibility,NO,ORG_UNIT,,Select to speak.
+chrome.devices.managedguest.SendMouseEventsDisabledFormControlsEnabled,chrome.devices.managedguest,Legacy Site Compatibility,NO,ORG_UNIT,,Disabled element MouseEvents.
+chrome.devices.managedguest.SerialAllowUsbDevicesForUrls,chrome.devices.managedguest,Hardware,NO,ORG_UNIT,,Web Serial API allowed devices.
+chrome.devices.managedguest.ServiceWorkerAutoPreloadEnabled,chrome.devices.managedguest,Legacy Site Compatibility,NO,ORG_UNIT,,ServiceWorker navigation requests dispatch.
+chrome.devices.managedguest.ServiceWorkerToControlSrcdocIframeEnabled,chrome.devices.managedguest,Content,NO,ORG_UNIT,,Service worker control of srcdoc iframes.
+chrome.devices.managedguest.SessionLength,chrome.devices.managedguest,General,NO,ORG_UNIT,,Maximum user session length.
+chrome.devices.managedguest.SessionLengthV2,chrome.devices.managedguest,General,NO,ORG_UNIT,,Maximum user session length.
+chrome.devices.managedguest.SessionLocale,chrome.devices.managedguest,User experience,NO,ORG_UNIT,,Session locale.
+chrome.devices.managedguest.SetTimeoutWithoutOneMsClampEnabled,chrome.devices.managedguest,Content,NO,ORG_UNIT,,Javascript setTimeout() minimum.
+chrome.devices.managedguest.SharedArrayBufferUnrestrictedAccessAllowed,chrome.devices.managedguest,Network,NO,ORG_UNIT,,SharedArrayBuffer.
+chrome.devices.managedguest.ShelfAlign,chrome.devices.managedguest,User experience,NO,ORG_UNIT,,Shelf position.
+chrome.devices.managedguest.ShoppingListEnabled,chrome.devices.managedguest,Content,NO,ORG_UNIT,,Shopping list.
+chrome.devices.managedguest.ShortcutCustomizationAllowed,chrome.devices.managedguest,Accessibility,NO,ORG_UNIT,,Customization of system shortcuts.
+chrome.devices.managedguest.ShowAccessibilityOptionsInSystemTrayMenu,chrome.devices.managedguest,Accessibility,NO,ORG_UNIT,,Accessibility options in the system tray menu.
+chrome.devices.managedguest.ShowCastSessionsStartedByOtherDevices,chrome.devices.managedguest,Content,NO,ORG_UNIT,,Show media controls for Google Cast sessions started by other devices on the local network.
+chrome.devices.managedguest.ShowFullUrlsInAddressBar,chrome.devices.managedguest,User experience,NO,ORG_UNIT,,URLs in the address bar.
+chrome.devices.managedguest.ShowLogoutButton,chrome.devices.managedguest,Session settings,NO,ORG_UNIT,,Show logout button in tray.
+chrome.devices.managedguest.SignedHttpExchangeEnabled,chrome.devices.managedguest,Network,NO,ORG_UNIT,,Signed HTTP Exchange (SXG) support.
+chrome.devices.managedguest.SilentPrintingEnabled,chrome.devices.managedguest,Printing,NO,ORG_UNIT,,Silent printing.
+chrome.devices.managedguest.SimpleProxySettings,chrome.devices.managedguest,Network,NO,ORG_UNIT,,Proxy mode.
+chrome.devices.managedguest.SmartScreenDimDelay,chrome.devices.managedguest,Power and shutdown,NO,ORG_UNIT,,Delay screen dim on user activity.
+chrome.devices.managedguest.SpellcheckEnabled,chrome.devices.managedguest,User experience,NO,ORG_UNIT,,Spell check.
+chrome.devices.managedguest.SpellCheckService,chrome.devices.managedguest,User experience,NO,ORG_UNIT,,Spell check service.
+chrome.devices.managedguest.SpokenFeedbackEnabled,chrome.devices.managedguest,Accessibility,NO,ORG_UNIT,,Spoken feedback.
+chrome.devices.managedguest.SslErrorOverrideAllowed,chrome.devices.managedguest,Network,NO,ORG_UNIT,,SSL error override.
+chrome.devices.managedguest.SslErrorOverrideAllowedForOrigins,chrome.devices.managedguest,Network,NO,ORG_UNIT,,SSL error override allowed domains.
+chrome.devices.managedguest.SslVersionMin,chrome.devices.managedguest,Network,NO,ORG_UNIT,,Minimum SSL version enabled.
+chrome.devices.managedguest.StandardizedBrowserZoomEnabled,chrome.devices.managedguest,Legacy Site Compatibility,NO,ORG_UNIT,,Zoom Behavior.
+chrome.devices.managedguest.StartupBrowserLaunch,chrome.devices.managedguest,Startup,NO,ORG_UNIT,,Browser launch on startup.
+chrome.devices.managedguest.StartupPages,chrome.devices.managedguest,Startup,NO,ORG_UNIT,,Pages to load on startup.
+chrome.devices.managedguest.StaticStorageQuotaEnabled,chrome.devices.managedguest,Content,NO,ORG_UNIT,,Storage quota APIs.
+chrome.devices.managedguest.StickyKeysEnabled,chrome.devices.managedguest,Accessibility,NO,ORG_UNIT,,Sticky keys.
+chrome.devices.managedguest.StrictMimetypeCheckForWorkerScriptsEnabled,chrome.devices.managedguest,Security,NO,ORG_UNIT,,Strict MIME type checking for worker scripts.
+chrome.devices.managedguest.SuggestedContentEnabled,chrome.devices.managedguest,User experience,NO,ORG_UNIT,,Suggested content.
+chrome.devices.managedguest.SuggestLogoutAfterClosingLastWindow,chrome.devices.managedguest,Session settings,NO,ORG_UNIT,,Display the logout confirmation dialog.
+chrome.devices.managedguest.SuppressCrossOriginIframeDialogs,chrome.devices.managedguest,Content,NO,ORG_UNIT,,Cross-origin JavaScript dialogs.
+chrome.devices.managedguest.SuppressUnsupportedOsWarning,chrome.devices.managedguest,Security,NO,ORG_UNIT,,Unsupported system warning.
+chrome.devices.managedguest.SystemFeaturesDisableList,chrome.devices.managedguest,User experience,NO,ORG_UNIT,,Disabled system features.
+chrome.devices.managedguest.SystemFeaturesDisableMode,chrome.devices.managedguest,User experience,NO,ORG_UNIT,,Disabled system features visibility.
+chrome.devices.managedguest.SystemShortcutBehavior,chrome.devices.managedguest,User experience,NO,ORG_UNIT,,Override system shortcuts.
+chrome.devices.managedguest.TabDiscardingExceptions,chrome.devices.managedguest,Other settings,NO,ORG_UNIT,,Exceptions to tab discarding.
+chrome.devices.managedguest.TargetBlankImpliesNoOpener,chrome.devices.managedguest,Security,NO,ORG_UNIT,,Pop-up interactions.
+chrome.devices.managedguest.TaskManager,chrome.devices.managedguest,Apps and extensions,NO,ORG_UNIT,,Task manager.
+chrome.devices.managedguest.ThirdPartyAiChatSettings,chrome.devices.managedguest,Generative AI,NO,ORG_UNIT,,Third-party AI chat in search.
+chrome.devices.managedguest.ThirdPartyStoragePartitioningSettings,chrome.devices.managedguest,Content,NO,ORG_UNIT,,Third-party storage partitioning.
+chrome.devices.managedguest.ThrottleNonVisibleCrossOriginIframesAllowed,chrome.devices.managedguest,Content,NO,ORG_UNIT,,"Throttling of non-visible, cross-origin iframes."
+chrome.devices.managedguest.TouchVirtualKeyboardEnabled,chrome.devices.managedguest,Accessibility,NO,ORG_UNIT,,Touch on-screen keyboard.
+chrome.devices.managedguest.Translate,chrome.devices.managedguest,User experience,NO,ORG_UNIT,,Google Translate.
+chrome.devices.managedguest.TrashEnabled,chrome.devices.managedguest,Content,NO,ORG_UNIT,,Trashed files.
+chrome.devices.managedguest.UnifiedDesktop,chrome.devices.managedguest,User experience,NO,ORG_UNIT,,Unified Desktop (BETA).
+chrome.devices.managedguest.UnthrottledNestedTimeoutEnabled,chrome.devices.managedguest,Content,NO,ORG_UNIT,,JavaScript setTimeout() clamping.
+chrome.devices.managedguest.UrlBlocking,chrome.devices.managedguest,Content,NO,ORG_UNIT,,URL blocking.
+chrome.devices.managedguest.UrlKeyedAnonymizedDataCollectionEnabled,chrome.devices.managedguest,Content,NO,ORG_UNIT,,Enable URL-keyed anonymized data collection.
+chrome.devices.managedguest.UrlParamFilterEnabled,chrome.devices.managedguest,User experience,NO,ORG_UNIT,,URL parameter filtering.
+chrome.devices.managedguest.UsbDetectorNotificationEnabled,chrome.devices.managedguest,Hardware,NO,ORG_UNIT,,USB device detected notification.
+chrome.devices.managedguest.UseMojoVideoDecoderForPepperAllowed,chrome.devices.managedguest,Content,NO,ORG_UNIT,,Use a new decoder for hardware accelerated video decoding.
+chrome.devices.managedguest.UserAgentClientHintsEnabled,chrome.devices.managedguest,Network,NO,ORG_UNIT,,User-Agent client hints.
+chrome.devices.managedguest.UserAgentReduction,chrome.devices.managedguest,Network,NO,ORG_UNIT,,User-Agent Reduction.
+chrome.devices.managedguest.UserBorealisAllowed,chrome.devices.managedguest,User experience,NO,ORG_UNIT,,Steam on ChromeOS.
+chrome.devices.managedguest.UserFeedbackAllowed,chrome.devices.managedguest,User experience,NO,ORG_UNIT,,Allow user feedback.
+chrome.devices.managedguest.UserPrintersAllowed,chrome.devices.managedguest,Printing,NO,ORG_UNIT,,Printer management.
+chrome.devices.managedguest.VideoCaptureAllowedUrls,chrome.devices.managedguest,Hardware,NO,ORG_UNIT,,Video input allowed URLs.
+chrome.devices.managedguest.VideoInput,chrome.devices.managedguest,Hardware,NO,ORG_UNIT,,Built-in camera access.
+chrome.devices.managedguest.VirtualKeyboardEnabled,chrome.devices.managedguest,Accessibility,NO,ORG_UNIT,,Accessibility on-screen keyboard.
+chrome.devices.managedguest.WaitForInitialUserActivity,chrome.devices.managedguest,Power and shutdown,NO,ORG_UNIT,,Wait for initial user activity.
+chrome.devices.managedguest.Wallpaper,chrome.devices.managedguest,General,NO,ORG_UNIT,,Custom wallpaper.
+chrome.devices.managedguest.WatermarkStyle,chrome.devices.managedguest,Data controls,NO,ORG_UNIT,,Custom watermark appearance.
+chrome.devices.managedguest.WebBluetoothAccess,chrome.devices.managedguest,Content,NO,ORG_UNIT,,Web Bluetooth API.
+chrome.devices.managedguest.WebHidAllowDevicesForUrls,chrome.devices.managedguest,Hardware,NO,ORG_UNIT,,WebHID API allowed devices.
+chrome.devices.managedguest.WebRtcAllowLegacyTlsProtocols,chrome.devices.managedguest,Network,NO,ORG_UNIT,,Legacy TLS/DTLS downgrade in WebRTC.
+chrome.devices.managedguest.WebrtcEventLogCollectionAllowed,chrome.devices.managedguest,User experience,NO,ORG_UNIT,,WebRTC event log collection.
+chrome.devices.managedguest.WebRtcIpHandling,chrome.devices.managedguest,Network,NO,ORG_UNIT,,WebRTC IP handling.
+chrome.devices.managedguest.WebRtcPostQuantumKeyAgreement,chrome.devices.managedguest,Network,NO,ORG_UNIT,,Post-quantum key agreement for WebRTC.
+chrome.devices.managedguest.WebSerialPortAccess,chrome.devices.managedguest,Hardware,NO,ORG_UNIT,,Web Serial API.
+chrome.devices.managedguest.WebSqlAccess,chrome.devices.managedguest,Security,NO,ORG_UNIT,,Force WebSQL to be enabled.
+chrome.devices.managedguest.WebSqlInThirdPartyContextEnabled,chrome.devices.managedguest,Security,NO,ORG_UNIT,,WebSQL in third-party context.
+chrome.devices.managedguest.WebSqlNonSecureContextEnabled,chrome.devices.managedguest,Security,NO,ORG_UNIT,,WebSQL in non-secure contexts.
+chrome.devices.managedguest.WebUsbAllowDevicesForUrls,chrome.devices.managedguest,Hardware,NO,ORG_UNIT,,WebUSB API allowed devices.
+chrome.devices.managedguest.WebUsbPortAccess,chrome.devices.managedguest,Hardware,NO,ORG_UNIT,,Controls which websites can ask for USB access.
+chrome.devices.managedguest.WpadQuickCheckEnabled,chrome.devices.managedguest,Network,NO,ORG_UNIT,,WPAD optimization.
+chrome.devices.managedguest.ZstdContentEncodingEnabled,chrome.devices.managedguest,Content,NO,ORG_UNIT,,Zstd compression.
+chrome.devices.MetricsReporting,chrome.devices,User and device reporting,YES,GROUP+ORG_UNIT,,Metrics reporting.
+chrome.devices.MobileDataRoaming,chrome.devices,Other settings,YES,GROUP+ORG_UNIT,,Mobile data roaming.
+chrome.devices.PartnerAccess,chrome.devices,Chrome management - partner access,YES,GROUP+ORG_UNIT,,Allow EMM partners access to device management.
+chrome.devices.PowerManagement,chrome.devices,Power and shutdown,YES,GROUP+ORG_UNIT,,Power management.
+chrome.devices.PowerPeakShift,chrome.devices,Power and shutdown,YES,GROUP+ORG_UNIT,,Peak shift power management.
+chrome.devices.QuirksDownloadEnabled,chrome.devices,Other settings,YES,GROUP+ORG_UNIT,,Hardware profiles.
+chrome.devices.RebootOnShutdown,chrome.devices,Power and shutdown,YES,GROUP+ORG_UNIT,,Allow shutdown.
+chrome.devices.RestrictedManagedGuestSessionExtensionCleanupExemptList,chrome.devices,Imprivata,YES,GROUP+ORG_UNIT,,Shared apps & extensions.
+chrome.devices.ScheduledRebootDuration,chrome.devices,Power and shutdown,NO,ORG_UNIT,,Reboot after uptime limit.
+chrome.devices.ScheduledRebootDurationV2,chrome.devices,Power and shutdown,YES,GROUP+ORG_UNIT,,Reboot after uptime limit.
+chrome.devices.ShowLowDiskSpaceNotification,chrome.devices,Other settings,YES,GROUP+ORG_UNIT,,Low disk space notification.
+chrome.devices.SignInKeyboard,chrome.devices,Sign-in settings,YES,GROUP+ORG_UNIT,,Login screen keyboard.
+chrome.devices.SignInLanguage,chrome.devices,Sign-in settings,YES,GROUP+ORG_UNIT,,Sign-in language.
+chrome.devices.SignInRestriction,chrome.devices,Sign-in settings,NO,ORG_UNIT,,Sign-in restriction.
+chrome.devices.SignInRestrictionsOffHours,chrome.devices,Sign-in settings,YES,GROUP+ORG_UNIT,,Device off hours.
+chrome.devices.SignInWallpaperImage,chrome.devices,Sign-in settings,YES,GROUP+ORG_UNIT,,Device wallpaper image.
+chrome.devices.SsoCameraPermissions,chrome.devices,Sign-in settings,NO,ORG_UNIT,,Single sign-on camera permissions.
+chrome.devices.SsoCookieBehavior,chrome.devices,Sign-in settings,YES,GROUP+ORG_UNIT,,Single sign-on cookie behavior.
+chrome.devices.SsoIdpRedirection,chrome.devices,Sign-in settings,YES,GROUP+ORG_UNIT,,Single sign-on IdP redirection.
+chrome.devices.SystemProxySettings,chrome.devices,Other settings,YES,GROUP+ORG_UNIT,,Authenticated Proxy Traffic.
+chrome.devices.SystemUseTwentyFourHourClock,chrome.devices,Other settings,YES,GROUP+ORG_UNIT,,System clock format.
+chrome.devices.ThrottleDeviceBandwidth,chrome.devices,Other settings,YES,GROUP+ORG_UNIT,,Throttle device bandwidth.
+chrome.devices.Timezone,chrome.devices,Other settings,YES,GROUP+ORG_UNIT,,Timezone.
+chrome.devices.TpmFirmwareUpdate,chrome.devices,Other settings,YES,GROUP+ORG_UNIT,,TPM firmware update.
+chrome.devices.UnaffiliatedArcAllowed,chrome.devices,Other settings,YES,GROUP+ORG_UNIT,,Android apps for unaffiliated users.
+chrome.devices.UsbDetachableAllowlist,chrome.devices,Other settings,YES,GROUP+ORG_UNIT,,USB access.
+chrome.devices.UsbPowerShare,chrome.devices,Power and shutdown,YES,GROUP+ORG_UNIT,,USB Powershare.
+chrome.devices.Variations,chrome.devices,Device update settings,YES,GROUP+ORG_UNIT,,Variations.
+chrome.devices.VirtualMachineAndroidAdbSideloadingAllowed,chrome.devices,Virtual machines,YES,GROUP+ORG_UNIT,,Android apps from untrusted sources.
+chrome.devices.VirtualMachinesAllowedUnaffiliatedUser,chrome.devices,Virtual machines,YES,GROUP+ORG_UNIT,,Linux virtual machines for unaffiliated users.
+chrome.devices.WilcoScheduledUpdate,chrome.devices,Device update settings,YES,GROUP+ORG_UNIT,,Scheduled updates.
+chrome.devices.WipeUserData,chrome.devices,Sign-in settings,YES,GROUP+ORG_UNIT,,Allows admins to make managed ChromeOS devices wipe user data after sign-out.
+chrome.networks.cellular.AllowForChromeDevices,chrome.networks,Cellular networks,NO,ORG_UNIT,,Allow chrome devices to use this network.
+chrome.networks.cellular.Details,chrome.networks,Cellular networks,NO,ORG_UNIT,,Cellular network configuration details.
+chrome.networks.cellular.DetailsV2,chrome.networks,Cellular networks,NO,ORG_UNIT,,Cellular network configuration details.
+chrome.networks.certificates.AllowForChromeDevices,chrome.networks,Certificates,NO,ORG_UNIT,,Allow chrome users to use this certificate.
+chrome.networks.certificates.AllowForChromeImprivata,chrome.networks,Certificates,NO,ORG_UNIT,,Allow the Imprivata app to use this certificate.
+chrome.networks.ethernet.AllowForChromeDevices,chrome.networks,Ethernet networks,NO,ORG_UNIT,,Allow chrome devices to use this network.
+chrome.networks.ethernet.AllowForChromeUsers,chrome.networks,Ethernet networks,NO,ORG_UNIT,,Allow this network to be used by chrome users.
+chrome.networks.ethernet.Details,chrome.networks,Ethernet networks,NO,ORG_UNIT,,Ethernet network configuration details.
+chrome.networks.globalsettings.AllowedNetworkInterfaces,chrome.networks,Global network settings,NO,ORG_UNIT,,Allow users to connect to network interfaces by type.
+chrome.networks.globalsettings.AllowedNetworkInterfacesV2,chrome.networks,Global network settings,NO,ORG_UNIT,,Allow users to connect to network interfaces by type.
+chrome.networks.globalsettings.AutoConnect,chrome.networks,Global network settings,NO,ORG_UNIT,,Restrict users to only auto-connect to managed networks.
+chrome.networks.globalsettings.BlockedSsids,chrome.networks,Global network settings,NO,ORG_UNIT,,Restrict users to connect to WiFi SSIDs in the list.
+chrome.networks.globalsettings.CellularNetworks,chrome.networks,Global network settings,NO,ORG_UNIT,,Restrict users to only connect to cellular networks configured for this organizational unit.
+chrome.networks.globalsettings.RestrictWifiNetworks,chrome.networks,Global network settings,NO,ORG_UNIT,,Restrict users to only connect to the Wi-Fi networks configured for this organizational unit.
+chrome.networks.globalsettings.SimLock,chrome.networks,Global network settings,NO,ORG_UNIT,,Restrict users from PIN locking SIM(s) on the device.
+chrome.networks.vpn.AllowForChromeDevices,chrome.networks,VPN networks,NO,ORG_UNIT,,Allow chrome devices to use this network.
+chrome.networks.vpn.AllowForChromeUsers,chrome.networks,VPN networks,NO,ORG_UNIT,,Allow this network to be used by chrome users.
+chrome.networks.vpn.Details,chrome.networks,VPN networks,NO,ORG_UNIT,,Vpn network configuration details.
+chrome.networks.wifi.AllowForChromeDevices,chrome.networks,Wifi networks,NO,ORG_UNIT,,Allow managed devices to use this network.
+chrome.networks.wifi.AllowForChromeUsers,chrome.networks,Wifi networks,NO,ORG_UNIT,,Allow this network to be used by chrome users.
+chrome.networks.wifi.Details,chrome.networks,Wifi networks,NO,ORG_UNIT,,Wifi network configuration details.
+chrome.printers.AllowForDevices,chrome.printers,Printers,YES,GROUP+ORG_UNIT,,Allows a printer for devices in a given organization.
+chrome.printers.AllowForManagedGuest,chrome.printers,Printers,YES,GROUP+ORG_UNIT,,Allows a printer for Managed Guest in a given organization.
+chrome.printers.AllowForUsers,chrome.printers,Printers,YES,GROUP+ORG_UNIT,,Allows a printer for users in a given organization.
+chrome.printservers.AllowForDevices,chrome.printservers,Printer servers,YES,GROUP+ORG_UNIT,,Allows a print server for devices in a given organization.
+chrome.printservers.AllowForManagedGuest,chrome.printservers,Printer servers,YES,GROUP+ORG_UNIT,,Allows a print server for Managed Guest in a given organization.
+chrome.printservers.AllowForUsers,chrome.printservers,Printer servers,YES,GROUP+ORG_UNIT,,Allows a print server for users in a given organization.
+chrome.users.AbusiveExperienceInterventionEnforce,chrome.users,Chrome Safe Browsing,YES,GROUP+ORG_UNIT,,Abusive Experience Intervention.
+chrome.users.AccessCodeCast,chrome.users,Content,YES,GROUP+ORG_UNIT,,Cast moderator.
+chrome.users.AccessControlAllowMethodsInCorsPreflightSpecConformant,chrome.users,Network,YES,GROUP+ORG_UNIT,,CORS Access-Control-Allow-Methods conformance.
+chrome.users.AccessibilityImageLabelsEnabled,chrome.users,Accessibility,YES,GROUP+ORG_UNIT,,Image descriptions.
+chrome.users.AccessibilityPerformanceFilteringAllowed,chrome.users,Accessibility,YES,GROUP+ORG_UNIT,,Accessibility Performance Filtering.
+chrome.users.AccessibilityShortcutsEnabled,chrome.users,Accessibility,YES,GROUP+ORG_UNIT,,Accessibility shortcuts.
+chrome.users.AdditionalDnsQueryTypesEnabled,chrome.users,Network,YES,GROUP+ORG_UNIT,,DNS queries for additional DNS record types.
+chrome.users.AdsSettingForIntrusiveAdsSites,chrome.users,Chrome Safe Browsing,YES,GROUP+ORG_UNIT,,Sites with intrusive ads.
+chrome.users.AdvancedProtectionAllowed,chrome.users,Security,YES,GROUP+ORG_UNIT,,Advanced Protection program.
+chrome.users.AiModeSettings,chrome.users,Generative AI,YES,GROUP+ORG_UNIT,,Google AI Mode integrations.
+chrome.users.AllowBackForwardCacheForCacheControlNoStorePageEnabled,chrome.users,Security,YES,GROUP+ORG_UNIT,,No-store header back/forward cache.
+chrome.users.AllowChromeDataInBackups,chrome.users,Other settings,YES,GROUP+ORG_UNIT,,Backup of Google Chrome data.
+chrome.users.AllowDinosaurEasterEgg,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Dinosaur game.
+chrome.users.AllowedInputMethods,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Allowed input methods.
+chrome.users.AllowedLanguages,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Allowed ChromeOS languages.
+chrome.users.AllowExcludeDisplayInMirrorMode,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Exclude display in mirror mode.
+chrome.users.AllowFileSelectionDialogs,chrome.users,User experience,YES,GROUP+ORG_UNIT,,File selection dialogs.
+chrome.users.AllowPopulateAssetIdentifier,chrome.users,Enrollment controls,YES,GROUP+ORG_UNIT,,Asset identifier during enrollment.
+chrome.users.AllowPrinting,chrome.users,Printing,YES,GROUP+ORG_UNIT,,Printing.
+chrome.users.AllowSocketPoolSizeRandomizationForProxies,chrome.users,Network,YES,GROUP+ORG_UNIT,,Proxy socket pool size randomization.
+chrome.users.AllowSystemNotifications,chrome.users,Security,YES,GROUP+ORG_UNIT,,System notifications.
+chrome.users.AllowWakeLocks,chrome.users,Power and shutdown,YES,GROUP+ORG_UNIT,,Wake locks.
+chrome.users.AllowWebAuthnWithBrokenTlsCerts,chrome.users,Security,YES,GROUP+ORG_UNIT,,Web Authentication requests on sites with broken TLS certificates.
+chrome.users.AlternateErrorPages,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Alternate error pages.
+chrome.users.AlternativeBrowserParameters,chrome.users,Legacy Browser Support,YES,GROUP+ORG_UNIT,,Alternative browser parameters.
+chrome.users.AlternativeBrowserPath,chrome.users,Legacy Browser Support,YES,GROUP+ORG_UNIT,,Alternative browser path.
+chrome.users.AlwaysOnVpn,chrome.users,Network,YES,GROUP+ORG_UNIT,,Always on VPN.
+chrome.users.AlwaysOnVpnPreConnectUrlAllowlist,chrome.users,Network,YES,GROUP+ORG_UNIT,,Always on VPN URL exceptions.
+chrome.users.AlwaysOpenPdfExternally,chrome.users,Content,YES,GROUP+ORG_UNIT,,PDF files.
+chrome.users.AmbientAuthenticationInPrivateModesEnabled,chrome.users,Security,YES,GROUP+ORG_UNIT,,Ambient authentication.
+chrome.users.AndroidBackupRestoreServiceEnabled,chrome.users,Android apps,YES,GROUP+ORG_UNIT,,Control Android backup and restore service.
+chrome.users.AndroidEntraSsoEnabled,chrome.users,Sign-in settings,YES,GROUP+ORG_UNIT,,Microsoft Entra single sign-on.
+chrome.users.AndroidGoogleLocationServicesEnabled,chrome.users,Android apps,YES,GROUP+ORG_UNIT,,Google location services.
+chrome.users.AppCacheForceEnabled,chrome.users,Content,YES,GROUP+ORG_UNIT,,AppCache.
+chrome.users.ApplicationBoundEncryptionEnabled,chrome.users,Security,YES,GROUP+ORG_UNIT,,Application bound encryption.
+chrome.users.ApplicationLocaleValue,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Browser locale.
+chrome.users.AppRecommendationZeroStateEnabled,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Previously installed app recommendations.
+chrome.users.apps.AccessToKeys,chrome.users.apps,User apps,YES,GROUP+ORG_UNIT,,Allows setting of whether the app can access client keys.
+chrome.users.apps.AppInstallationUrl,chrome.users.apps,User apps,YES,GROUP+ORG_UNIT,,Specifies the url from which to install a self hosted Chrome Extension.
+chrome.users.apps.CertificateManagement,chrome.users.apps,User apps,YES,GROUP+ORG_UNIT,,Allows setting of certificate management related permissions.
+chrome.users.apps.DefaultLaunchContainer,chrome.users.apps,User apps,YES,GROUP+ORG_UNIT,,Allows setting of the default launch container for web apps.
+chrome.users.apps.EnterpriseChallenge,chrome.users.apps,User apps,YES,GROUP+ORG_UNIT,,Allows setting of whether the app can challenge enterprise keys.
+chrome.users.apps.FileUrlNavigationAllowed,chrome.users.apps,User apps,YES,GROUP+ORG_UNIT,,Controls whether an extension can access file URLs.
+chrome.users.apps.IncludeInChromeWebStoreCollection,chrome.users.apps,User apps,YES,GROUP+ORG_UNIT,,Specifies whether the Chrome Application should appear in the Chrome Web Store collection.
+chrome.users.apps.InstallationUrl,chrome.users.apps,User apps,YES,GROUP+ORG_UNIT,,Specifies the url from which to install a self hosted Chrome Extension.
+chrome.users.apps.InstallType,chrome.users.apps,User apps,YES,GROUP+ORG_UNIT,,Specifies the manner in which the app is to be installed. Note: It's required in order to add an App or Extension to the set of managed apps & extensions of an Organizational Unit.
+chrome.users.apps.ManagedConfiguration,chrome.users.apps,User apps,YES,GROUP+ORG_UNIT,,Allows setting of the managed configuration.
+chrome.users.apps.MandatoryForIncognitoNavigation,chrome.users.apps,User apps,YES,GROUP+ORG_UNIT,,Sets the chrome app as mandatory for incognito navigation. User will have to install the app in order to access Incognito Mode in Chrome. Note: The policy is only applicable if the Incognito mode is enabled for the user.
+chrome.users.apps.OverrideInstallationUrl,chrome.users.apps,User apps,YES,GROUP+ORG_UNIT,,Allows overriding of the url from which to install a self hosted Chrome Extension.
+chrome.users.apps.PermissionsAndUrlAccess,chrome.users.apps,User apps,YES,GROUP+ORG_UNIT,,Allows setting of allowed and blocked hosts.
+chrome.users.apps.SkipDocumentScanConfirmation,chrome.users.apps,User apps,YES,GROUP+ORG_UNIT,,Allows the app to skip the confirmation dialog when using the Document Scan API.
+chrome.users.apps.SkipPrintConfirmation,chrome.users.apps,User apps,YES,GROUP+ORG_UNIT,,Allows the app to skip the confirmation dialog when sending print jobs via the Chrome Printing API.
+chrome.users.appsconfig.AdHocCodeSigningForPwasEnabled,chrome.users.appsconfig,Additional app settings,NO,ORG_UNIT,,Ad hoc code signing for PWA shims.
+chrome.users.appsconfig.AllowedAppTypes,chrome.users.appsconfig,Additional app settings,NO,ORG_UNIT,,Allowed types of apps and extensions.
+chrome.users.appsconfig.AllowedInstallSources,chrome.users.appsconfig,Additional app policy,NO,ORG_UNIT,,Allows setting of the allowed install sources for apps. Note these must be set together.
+chrome.users.appsconfig.AllowInsecureUpdates,chrome.users.appsconfig,Additional app settings,NO,ORG_UNIT,,Allow insecure extension packaging.
+chrome.users.appsconfig.AndroidAppsEnabled,chrome.users.appsconfig,Additional app settings,NO,ORG_UNIT,,Android apps on Chrome devices.
+chrome.users.appsconfig.AppExtensionInstallSources,chrome.users.appsconfig,Additional app settings,NO,ORG_UNIT,,App and extension install sources.
+chrome.users.appsconfig.BlockByCategory,chrome.users.appsconfig,Advanced extension blocking,NO,ORG_UNIT,,Block by category.
+chrome.users.appsconfig.BlockExtensionsByPermission,chrome.users.appsconfig,Additional app settings,NO,ORG_UNIT,,Permissions and URLs.
+chrome.users.appsconfig.BlockExternalExtensions,chrome.users.appsconfig,Additional app settings,NO,ORG_UNIT,,External extensions.
+chrome.users.appsconfig.ChromeAppsEnabled,chrome.users.appsconfig,Additional app settings,NO,ORG_UNIT,,Extend support for Chrome Apps.
+chrome.users.appsconfig.ChromeWebStoreAnnouncement,chrome.users.appsconfig,Chrome Web Store settings,NO,ORG_UNIT,,Announcement.
+chrome.users.appsconfig.ChromeWebStoreBranding,chrome.users.appsconfig,Chrome Web Store settings,NO,ORG_UNIT,,Org name & logo.
+chrome.users.appsconfig.ChromeWebStoreHomepage,chrome.users.appsconfig,Additional app settings,NO,ORG_UNIT,,Chrome Web Store homepage.
+chrome.users.appsconfig.ChromeWebStoreHomepageBanner,chrome.users.appsconfig,Chrome Web Store settings,NO,ORG_UNIT,,Homepage banner.
+chrome.users.appsconfig.ChromeWebStorePagesAndContent,chrome.users.appsconfig,Chrome Web Store settings,NO,ORG_UNIT,,Pages & content.
+chrome.users.appsconfig.ChromeWebStorePermissions,chrome.users.appsconfig,Additional app settings,NO,ORG_UNIT,,Chrome Web Store permissions.
+chrome.users.appsconfig.ExtensionInstallTypeBlocklist,chrome.users.appsconfig,Additional app settings,NO,ORG_UNIT,,Blocklist for install types of extensions.
+chrome.users.appsconfig.ExtensionUnpublishedAvailability,chrome.users.appsconfig,Additional app settings,NO,ORG_UNIT,,Chrome Web Store unpublished extensions.
+chrome.users.appsconfig.FullRestoreEnabled,chrome.users.appsconfig,Additional app settings,NO,ORG_UNIT,,Restore apps on startup.
+chrome.users.appsconfig.GhostWindowEnabled,chrome.users.appsconfig,Additional app settings,NO,ORG_UNIT,,Android ghost windows.
+chrome.users.appsconfig.HideWebStoreIcon,chrome.users.appsconfig,Additional app settings,NO,ORG_UNIT,,Chrome Web Store app icon.
+chrome.users.appsconfig.IsolatedWebAppUserInstallationEnabled,chrome.users.appsconfig,Additional app settings,NO,ORG_UNIT,,Isolated Web App installation.
+chrome.users.appsconfig.PinCreateApps,chrome.users.appsconfig,Additional app settings,NO,ORG_UNIT,,Pin Create apps.
+chrome.users.appsconfig.ReportAndroidStatus,chrome.users.appsconfig,Additional app settings,NO,ORG_UNIT,,Android reporting for users and devices.
+chrome.users.appsconfig.UnaffiliatedDeviceArcAllowed,chrome.users.appsconfig,Additional app settings,NO,ORG_UNIT,,Android apps on unaffiliated devices.
+chrome.users.appsconfig.WebAppInstallByUserEnabled,chrome.users.appsconfig,Additional app settings,NO,ORG_UNIT,,Web app installation by users.
+chrome.users.AppStoreRatingEnabled,chrome.users,Other settings,YES,GROUP+ORG_UNIT,,iOS App Store Rating promo.
+chrome.users.ArcAppToWebAppSharingEnabled,chrome.users,Android apps,YES,GROUP+ORG_UNIT,,Sharing from Android apps to Web apps.
+chrome.users.ArcOpenLinksInBrowserByDefault,chrome.users,Android apps,YES,GROUP+ORG_UNIT,,Open links in Chrome browser by default.
+chrome.users.ArcVmDataMigrationStrategy,chrome.users,Android apps,YES,GROUP+ORG_UNIT,,Android VM Update.
+chrome.users.AssistantWebEnabled,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Allow using Google Assistant on the web.
+chrome.users.AudioCaptureAllowedUrls,chrome.users,Hardware,NO,ORG_UNIT,,Audio input allowed URLs.
+chrome.users.AudioInput,chrome.users,Hardware,YES,GROUP+ORG_UNIT,,Audio input (microphone).
+chrome.users.AudioOutput,chrome.users,Hardware,YES,GROUP+ORG_UNIT,,Audio output.
+chrome.users.AudioProcessHighPriorityEnabled,chrome.users,Hardware,YES,GROUP+ORG_UNIT,,Audio process priority.
+chrome.users.AudioSandboxEnabled,chrome.users,Security,YES,GROUP+ORG_UNIT,,Audio sandbox.
+chrome.users.AuthAndroidNegotiateAccountType,chrome.users,Network,YES,GROUP+ORG_UNIT,,Account type for HTTP Negotiate authentication.
+chrome.users.AuthenticationServerAllowlist,chrome.users,Network,YES,GROUP+ORG_UNIT,,Integrated authentication servers.
+chrome.users.AuthenticationServerDelegationAllowlist,chrome.users,Network,YES,GROUP+ORG_UNIT,,Kerberos delegation servers.
+chrome.users.AuthSchemes,chrome.users,Network,YES,GROUP+ORG_UNIT,,Supported authentication schemes.
+chrome.users.AutoclickEnabled,chrome.users,Accessibility,YES,GROUP+ORG_UNIT,,Auto-click enabled.
+chrome.users.AutofillAddressEnabled,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Address form autofill.
+chrome.users.AutofillCreditCardEnabled,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Credit card form autofill.
+chrome.users.AutofillPredictionSettings,chrome.users,Generative AI,YES,GROUP+ORG_UNIT,,Enhanced autofill.
+chrome.users.AutomatedPasswordChangeSettings,chrome.users,Security,YES,GROUP+ORG_UNIT,,Automated password change.
+chrome.users.AutomaticFullscreen,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Automatic fullscreen.
+chrome.users.AutoOpen,chrome.users,Content,NO,ORG_UNIT,,Auto open downloaded files.
+chrome.users.AutoplayAllowlist,chrome.users,Content,NO,ORG_UNIT,,Autoplay video.
+chrome.users.AutoSignOutEnabled,chrome.users,Sign-in settings,YES,GROUP+ORG_UNIT,,Automatic sign-out across devices.
+chrome.users.AutoUpdateCheckPeriodNew,chrome.users,Chrome updates,NO,ORG_UNIT,,Auto-update check period.
+chrome.users.AutoUpdateCheckPeriodNewV2,chrome.users,Chrome updates,YES,GROUP+ORG_UNIT,,Auto-update check period.
+chrome.users.Avatar,chrome.users,General,YES,GROUP+ORG_UNIT,,Custom avatar.
+chrome.users.BackForwardCacheEnabled,chrome.users,Content,YES,GROUP+ORG_UNIT,,Back-forward cache.
+chrome.users.BackgroundModeEnabled,chrome.users,Other settings,YES,GROUP+ORG_UNIT,,Background mode.
+chrome.users.BasicAuthOverHttpEnabled,chrome.users,Network,YES,GROUP+ORG_UNIT,,Allow Basic authentication for HTTP.
+chrome.users.BatterySaverModeAvailability,chrome.users,Power and shutdown,YES,GROUP+ORG_UNIT,,Battery Saver Mode.
+chrome.users.BeforeunloadEventCancelByPreventDefaultEnabled,chrome.users,Legacy Site Compatibility,YES,GROUP+ORG_UNIT,,Behavior of event.preventDefault() for beforeunload event.
+chrome.users.BlockTruncatedCookies,chrome.users,Content,YES,GROUP+ORG_UNIT,,Block truncated cookies.
+chrome.users.BookmarkBarEnabled,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Bookmark bar.
+chrome.users.BookmarkEditing,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Bookmark editing.
+chrome.users.BoundSessionCredentialsEnabled,chrome.users,Security,YES,GROUP+ORG_UNIT,,Device Bound Session Credentials.
+chrome.users.BrowserAddPersonEnabled,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Add profiles.
+chrome.users.BrowserGuestModeEnabled,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Browser guest mode.
+chrome.users.BrowserHistory,chrome.users,Security,YES,GROUP+ORG_UNIT,,Browser history.
+chrome.users.BrowserIdleTimeout,chrome.users,Power and shutdown,YES,GROUP+ORG_UNIT,,Browser idle timeout.
+chrome.users.BrowserLabsEnabled,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Browser experiments icon in toolbar.
+chrome.users.BrowserLegacyExtensionPointsBlocked,chrome.users,Security,YES,GROUP+ORG_UNIT,,Browser Legacy Extension Points.
+chrome.users.BrowserNetworkTimeQueriesEnabled,chrome.users,Other settings,YES,GROUP+ORG_UNIT,,Google time service.
+chrome.users.BrowserSignin,chrome.users,Sign-in settings,YES,GROUP+ORG_UNIT,,Browser sign-in settings.
+chrome.users.BrowserSwitcher,chrome.users,Legacy Browser Support,YES,GROUP+ORG_UNIT,,Legacy Browser Support.
+chrome.users.BrowserSwitcherChromeParameters,chrome.users,Legacy Browser Support,YES,GROUP+ORG_UNIT,,Chrome parameters.
+chrome.users.BrowserSwitcherChromePath,chrome.users,Legacy Browser Support,YES,GROUP+ORG_UNIT,,Chrome path.
+chrome.users.BrowserSwitcherDelayDuration,chrome.users,Legacy Browser Support,NO,ORG_UNIT,,Delay before launching alternative browser.
+chrome.users.BrowserSwitcherDelayDurationV2,chrome.users,Legacy Browser Support,YES,GROUP+ORG_UNIT,,Delay before launching alternative browser.
+chrome.users.BrowserSwitcherExternalGreylistUrl,chrome.users,Legacy Browser Support,YES,GROUP+ORG_UNIT,,URL to list of websites to open in either browser.
+chrome.users.BrowserSwitcherExternalSitelistUrl,chrome.users,Legacy Browser Support,YES,GROUP+ORG_UNIT,,Legacy Browser Support site list.
+chrome.users.BrowserSwitcherKeepLastChromeTab,chrome.users,Legacy Browser Support,YES,GROUP+ORG_UNIT,,Keep last Chrome tab.
+chrome.users.BrowserSwitcherParsingMode,chrome.users,Legacy Browser Support,YES,GROUP+ORG_UNIT,,Sitelist parsing mode.
+chrome.users.BrowserSwitcherUrlGreylist,chrome.users,Legacy Browser Support,NO,ORG_UNIT,,Websites to open in either browser.
+chrome.users.BrowserSwitcherUrlList,chrome.users,Legacy Browser Support,NO,ORG_UNIT,,Websites to open in alternative browser.
+chrome.users.BrowserSwitcherUseIeSitelist,chrome.users,Legacy Browser Support,YES,GROUP+ORG_UNIT,,Use Internet Explorer site list.
+chrome.users.BrowserThemeColor,chrome.users,General,YES,GROUP+ORG_UNIT,,Custom theme color.
+chrome.users.BrowsingDataLifetime,chrome.users,Security,YES,GROUP+ORG_UNIT,,Browsing Data Lifetime.
+chrome.users.BrowsingDataLifetimeV2,chrome.users,Security,YES,GROUP+ORG_UNIT,,Browsing Data Lifetime.
+chrome.users.BuiltInAiApisEnabled,chrome.users,Generative AI,YES,GROUP+ORG_UNIT,,Built-in AI APIs.
+chrome.users.BuiltInDnsClientEnabled,chrome.users,Network,YES,GROUP+ORG_UNIT,,Built-in DNS client.
+chrome.users.CaCertificateManagementAllowed,chrome.users,Security,YES,GROUP+ORG_UNIT,,User management of installed CA certificates.
+chrome.users.CacheEncryptionEnabled,chrome.users,Security,YES,GROUP+ORG_UNIT,,Cache encryption.
+chrome.users.CalendarIntegrationEnabled,chrome.users,Content,YES,GROUP+ORG_UNIT,,Google Calendar Integration.
+chrome.users.CaPlatformIntegrationEnabled,chrome.users,Security,YES,GROUP+ORG_UNIT,,Use user-added TLS certificates from platform trust stores for server authentication.
+chrome.users.CaptivePortalAuthenticationIgnoresProxy,chrome.users,Network,YES,GROUP+ORG_UNIT,,Ignore proxy on captive portals.
+chrome.users.CaretHighlightEnabled,chrome.users,Accessibility,YES,GROUP+ORG_UNIT,,Caret highlight.
+chrome.users.Cecpq2Enabled,chrome.users,Network,YES,GROUP+ORG_UNIT,,CECPQ2 post-quantum key-agreement for TLS.
+chrome.users.CertificateSynchronization,chrome.users,Android apps,YES,GROUP+ORG_UNIT,,Certificate synchronization.
+chrome.users.CertificateTransparencyEnforcementDisabledForUrls,chrome.users,Security,NO,ORG_UNIT,,Allowed certificate transparency URLs.
+chrome.users.CertTransparencyCas,chrome.users,Security,YES,GROUP+ORG_UNIT,,Certificate transparency CA allowlist.
+chrome.users.CertTransparencyLegacyCas,chrome.users,Security,YES,GROUP+ORG_UNIT,,Certificate transparency legacy CA allowlist.
+chrome.users.ChromeAppsWebViewPermissiveBehaviorAllowed,chrome.users,Legacy Site Compatibility,YES,GROUP+ORG_UNIT,,Restore permissive Chrome Apps behavior.
+chrome.users.ChromeBrowserDmtokenDeletionEnabled,chrome.users,Other settings,NO,ORG_UNIT,,Device Token Management.
+chrome.users.ChromeBrowserUpdates,chrome.users,Chrome updates,YES,GROUP+ORG_UNIT,,Chrome browser updates.
+chrome.users.ChromeCleanupEnabled,chrome.users,Security,YES,GROUP+ORG_UNIT,,Chrome Cleanup.
+chrome.users.ChromeForTestingAllowed,chrome.users,Other settings,YES,GROUP+ORG_UNIT,,Chrome for Testing.
+chrome.users.ChromeOnIos,chrome.users,Mobile,YES,GROUP+ORG_UNIT,,Chrome on iOS.
+chrome.users.ChromeRootStoreEnabled,chrome.users,Security,YES,GROUP+ORG_UNIT,,Chrome Root Store and certificate verifier.
+chrome.users.ClassManagementSettings,chrome.users,Content,YES,GROUP+ORG_UNIT,,Class Tools.
+chrome.users.ClearBrowserHistory,chrome.users,Security,YES,GROUP+ORG_UNIT,,Clear browser history.
+chrome.users.ClickToCall,chrome.users,Connected devices,YES,GROUP+ORG_UNIT,,Click to Call.
+chrome.users.ClientCertificateManagementAllowed,chrome.users,Security,YES,GROUP+ORG_UNIT,,User management of installed client certificates.
+chrome.users.ClientCertificates,chrome.users,Content,NO,ORG_UNIT,,Client certificates.
+chrome.users.ClipboardSettings,chrome.users,Content,NO,ORG_UNIT,,Clipboard.
+chrome.users.CloudApAuthEnabled,chrome.users,Sign-in settings,YES,GROUP+ORG_UNIT,,Azure Cloud Authentication.
+chrome.users.CloudProfileReportingEnabled,chrome.users,Browser reporting,YES,GROUP+ORG_UNIT,,Managed profile reporting.
+chrome.users.CloudReporting,chrome.users,Browser reporting,YES,GROUP+ORG_UNIT,,Managed browser reporting.
+chrome.users.CloudReportingUploadFrequency,chrome.users,Browser reporting,YES,GROUP+ORG_UNIT,,Managed browser reporting upload frequency.
+chrome.users.CloudReportingUploadFrequencyV2,chrome.users,Browser reporting,YES,GROUP+ORG_UNIT,,Managed browser reporting upload frequency.
+chrome.users.CloudUserPolicyMerge,chrome.users,Setting sources,YES,GROUP+ORG_UNIT,,User cloud policy merge.
+chrome.users.ColorCorrectionEnabled,chrome.users,Accessibility,YES,GROUP+ORG_UNIT,,Color Correction.
+chrome.users.CommandLineFlagSecurityWarningsEnabled,chrome.users,Security,YES,GROUP+ORG_UNIT,,Command-line flags.
+chrome.users.ComponentUpdates,chrome.users,Chrome updates,YES,GROUP+ORG_UNIT,,Component updates.
+chrome.users.CompressionDictionaryTransportEnabled,chrome.users,Content,YES,GROUP+ORG_UNIT,,Compression dictionary transport support.
+chrome.users.ConfigurationSelection,chrome.users,Non-autosettings Chrome Enterprise connectors settings,YES,GROUP+ORG_UNIT,,Reporting connector selection.
+chrome.users.ContentTransferEnablementStatus,chrome.users,Content,YES,GROUP+ORG_UNIT,,Content transfer tool.
+chrome.users.ContextMenuPhotoSharingSettings,chrome.users,Content,YES,GROUP+ORG_UNIT,,Google Photos in iOS context menu.
+chrome.users.ContextualGoogleIntegrationsEnabled,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Contextual integrations of Google services.
+chrome.users.ContextualSearchEnabled,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Touch to search.
+chrome.users.Cookies,chrome.users,Content,NO,ORG_UNIT,,Cookies.
+chrome.users.CorsNonWildcardRequestHeadersSupport,chrome.users,Network,YES,GROUP+ORG_UNIT,,CORS non-wildcard request headers support.
+chrome.users.CpuPerformanceTierOverride,chrome.users,Other settings,YES,GROUP+ORG_UNIT,,CPU performance tier override.
+chrome.users.CpuTaskScheduler,chrome.users,Security,YES,GROUP+ORG_UNIT,,CPU task scheduler.
+chrome.users.CreatePasskeysInICloudKeychain,chrome.users,Content,YES,GROUP+ORG_UNIT,,iCloud Keychain.
+chrome.users.CreateThemesSettings,chrome.users,Generative AI,YES,GROUP+ORG_UNIT,,Create themes with AI.
+chrome.users.CredentialProviderPromoEnabled,chrome.users,Security,YES,GROUP+ORG_UNIT,,Credential provider extension promo.
+chrome.users.CrossOriginAuthentication,chrome.users,Network,YES,GROUP+ORG_UNIT,,Cross-origin authentication.
+chrome.users.CrossOriginWebAssemblyModuleSharingEnabled,chrome.users,Content,YES,GROUP+ORG_UNIT,,Allow WebAssembly cross-origin.
+chrome.users.CssCustomStateDeprecatedSyntaxEnabled,chrome.users,Content,YES,GROUP+ORG_UNIT,,CSS custom state deprecated syntax.
+chrome.users.CursorHighlightEnabled,chrome.users,Accessibility,YES,GROUP+ORG_UNIT,,Cursor highlight.
+chrome.users.CustomTermsOfService,chrome.users,General,YES,GROUP+ORG_UNIT,,Custom terms of service.
+chrome.users.DataCompressionProxy,chrome.users,Network,YES,GROUP+ORG_UNIT,,Data compression proxy.
+chrome.users.DataLeakPreventionReportingEnabled,chrome.users,Data controls,YES,GROUP+ORG_UNIT,,Data controls reporting.
+chrome.users.DataUrlInSvgUseEnabled,chrome.users,Security,YES,GROUP+ORG_UNIT,,Data URL support for SVGUseElement.
+chrome.users.DataUrlInWebWorkerOpaqueOriginEnabled,chrome.users,Legacy Site Compatibility,YES,GROUP+ORG_UNIT,,Opaque origins for data URL web workers.
+chrome.users.DataUrlWhitespacePreservationEnabled,chrome.users,Security,YES,GROUP+ORG_UNIT,,Data URL whitespace preservation for all media types.
+chrome.users.DefaultBrowserSettingEnabled,chrome.users,Startup,YES,GROUP+ORG_UNIT,,Default browser check.
+chrome.users.DefaultInsecureContentSetting,chrome.users,Content,YES,GROUP+ORG_UNIT,,Control use of insecure content exceptions.
+chrome.users.DefaultPrintColor,chrome.users,Printing,YES,GROUP+ORG_UNIT,,Default color printing mode.
+chrome.users.DefaultPrintDuplexMode,chrome.users,Printing,YES,GROUP+ORG_UNIT,,Default page sides.
+chrome.users.DefaultPrinters,chrome.users,Printing,YES,GROUP+ORG_UNIT,,Print preview default.
+chrome.users.DefaultSensorsSetting,chrome.users,Hardware,NO,ORG_UNIT,,Sensors.
+chrome.users.DeleteKeyModifier,chrome.users,Accessibility,YES,GROUP+ORG_UNIT,,"Control the shortcut used to trigger the Delete ""six pack"" key."
+chrome.users.DeletePrintJobHistoryAllowed,chrome.users,Printing,YES,GROUP+ORG_UNIT,,Print job history deletion.
+chrome.users.DeletingUndecryptablePasswordsEnabled,chrome.users,Security,YES,GROUP+ORG_UNIT,,Delete undecryptable passwords.
+chrome.users.DeskApi,chrome.users,Desk API,NO,ORG_UNIT,,Desk API for third-party ChromeOS desk control.
+chrome.users.DesktopSharingHubEnabled,chrome.users,Content,YES,GROUP+ORG_UNIT,,Desktop sharing in the omnibox and 3-dot menu.
+chrome.users.DeveloperTools,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Developer tools.
+chrome.users.DeveloperToolsAvailabilityUrls,chrome.users,User experience,NO,ORG_UNIT,,Developer tools URL restrictions.
+chrome.users.DeviceEnrollment,chrome.users,Enrollment controls,YES,GROUP+ORG_UNIT,,Device enrollment.
+chrome.users.DevicePowerAdaptiveChargingEnabled,chrome.users,Power and shutdown,YES,GROUP+ORG_UNIT,,Adaptive charging model.
+chrome.users.DeviceTrustConfigurationSelection,chrome.users,Device trust connector,NO,ORG_UNIT,,Pub/Sub topics for device signals.
+chrome.users.DevToolsGenAiSettings,chrome.users,Generative AI,YES,GROUP+ORG_UNIT,,DevTools AI features.
+chrome.users.DevToolsGoogleDeveloperProgramProfileAvailability,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Google Developer Program integration in DevTools.
+chrome.users.DictationEnabled,chrome.users,Accessibility,YES,GROUP+ORG_UNIT,,Dictation.
+chrome.users.DisableSafeBrowsingProceedAnyway,chrome.users,Chrome Safe Browsing,YES,GROUP+ORG_UNIT,,Disable bypassing Safe Browsing warnings.
+chrome.users.DiskCacheDir,chrome.users,Other settings,YES,GROUP+ORG_UNIT,,Disk cache directory.
+chrome.users.DiskCacheSize,chrome.users,Other settings,YES,GROUP+ORG_UNIT,,Disk cache size.
+chrome.users.DisplayCapturePermissionsPolicyEnabled,chrome.users,Security,YES,GROUP+ORG_UNIT,,Insecure Media Capture.
+chrome.users.DnsInterceptionChecksEnabled,chrome.users,Network,YES,GROUP+ORG_UNIT,,DNS interception checks enabled.
+chrome.users.DnsOverHttps,chrome.users,Network,YES,GROUP+ORG_UNIT,,DNS over HTTPS.
+chrome.users.DnsOverHttpsDomainConfig,chrome.users,Network,YES,GROUP+ORG_UNIT,,DNS over HTTPS included and excluded domains.
+chrome.users.DnsOverHttpsTemplatesWithIdentifiers,chrome.users,Network,YES,GROUP+ORG_UNIT,,DNS-over-HTTPS with identifiers.
+chrome.users.DomainReliabilityAllowed,chrome.users,Other settings,YES,GROUP+ORG_UNIT,,Allow reporting of domain reliability related data.
+chrome.users.DownloadBubbleEnabled,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Download bubble.
+chrome.users.DownloadManagerSaveToDriveSettings,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Save files directly to Google Drive.
+chrome.users.DownloadPreference,chrome.users,Chrome updates,YES,GROUP+ORG_UNIT,,Cacheable URLs.
+chrome.users.DownloadRestrictions,chrome.users,Chrome Safe Browsing,YES,GROUP+ORG_UNIT,,Download restrictions.
+chrome.users.DriveFileSyncAvailable,chrome.users,Content,YES,GROUP+ORG_UNIT,,ChromeOS file sync.
+chrome.users.DynamicCodeSettings,chrome.users,Security,YES,GROUP+ORG_UNIT,,Dynamic Code.
+chrome.users.EcheAllowed,chrome.users,Connected devices,YES,GROUP+ORG_UNIT,,App Streaming.
+chrome.users.EmojiPickerGifSupportEnabled,chrome.users,User experience,YES,GROUP+ORG_UNIT,,GIF Support in Emoji Picker.
+chrome.users.EmojiSuggestionEnabled,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Emoji suggestions.
+chrome.users.EnableCaptureAllowedSettings,chrome.users,Content,NO,ORG_UNIT,,Screen video capture allowed by sites.
+chrome.users.EnableDeprecatedPrivetPrinting,chrome.users,Printing,YES,GROUP+ORG_UNIT,,Deprecated privet printing.
+chrome.users.EnableFloatingSsoSettings,chrome.users,Startup,YES,GROUP+ORG_UNIT,,Desk sync.
+chrome.users.EnableProxyOverrideRulesForAllUsers,chrome.users,Network,YES,GROUP+ORG_UNIT,,Proxy override rules scope.
+chrome.users.EncryptedClientHelloEnabled,chrome.users,Security,YES,GROUP+ORG_UNIT,,TLS encrypted ClientHello.
+chrome.users.EnforceLocalAnchorConstraintsEnabled,chrome.users,Security,YES,GROUP+ORG_UNIT,,Enforce local anchor constraints.
+chrome.users.EnhancedNetworkVoicesInSelectToSpeakAllowed,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Select-to-speak.
+chrome.users.EnrollPermission,chrome.users,Enrollment controls,YES,GROUP+ORG_UNIT,,Enrollment permissions.
+chrome.users.EnterpriseCustomLabel,chrome.users,General,YES,GROUP+ORG_UNIT,,Organization name (profile).
+chrome.users.EnterpriseCustomLabelForBrowser,chrome.users,General,YES,GROUP+ORG_UNIT,,Organization name (browser).
+chrome.users.EnterpriseHardwarePlatformApiEnabled,chrome.users,Hardware,YES,GROUP+ORG_UNIT,,Enterprise Hardware Platform API.
+chrome.users.EnterpriseLogoUrl,chrome.users,General,YES,GROUP+ORG_UNIT,,Organization Icon URL (profile).
+chrome.users.EnterpriseLogoUrlForBrowser,chrome.users,General,YES,GROUP+ORG_UNIT,,Organization Icon URL (browser).
+chrome.users.EnterpriseProfileBadgeToolbarSettings,chrome.users,General,YES,GROUP+ORG_UNIT,,Enterprise profile badge toolbar settings.
+chrome.users.EnterpriseSearchAggregatorSettings,chrome.users,Omnibox search provider,YES,GROUP+ORG_UNIT,,Enterprise search aggregator.
+chrome.users.EventPathEnabled,chrome.users,Content,YES,GROUP+ORG_UNIT,,Re-enable the Event.path API until Chrome 115.
+chrome.users.ExplicitlyAllowedNetworkPorts,chrome.users,Network,YES,GROUP+ORG_UNIT,,Allowed network ports.
+chrome.users.ExtensibleEnterpriseSsoBlocklist,chrome.users,Sign-in settings,YES,GROUP+ORG_UNIT,,Extensible Enterprise SSO blocking.
+chrome.users.ExtensionExtendedBackgroundLifetimeForPortConnectionsToUrls,chrome.users,Apps and extensions,YES,GROUP+ORG_UNIT,,Extended background lifetime.
+chrome.users.ExtensionManifestVTwoAvailability,chrome.users,Apps and extensions,YES,GROUP+ORG_UNIT,,Manifest V2 extension availability.
+chrome.users.ExternalProtocolDialogShowAlwaysOpenCheckbox,chrome.users,Content,YES,GROUP+ORG_UNIT,,"Show ""Always open"" checkbox in external protocol dialog."
+chrome.users.ExternalStorage,chrome.users,Hardware,YES,GROUP+ORG_UNIT,,External storage devices.
+chrome.users.FaceGazeEnabled,chrome.users,Accessibility,YES,GROUP+ORG_UNIT,,Face control.
+chrome.users.FastPairEnabled,chrome.users,Other settings,YES,GROUP+ORG_UNIT,,Fast Pair (fast Bluetooth pairing).
+chrome.users.FeedbackSurveysEnabled,chrome.users,Other settings,YES,GROUP+ORG_UNIT,,Google Chrome surveys.
+chrome.users.FElevenKeyModifier,chrome.users,Accessibility,YES,GROUP+ORG_UNIT,,Control the shortcut used to trigger F11.
+chrome.users.FetchKeepaliveDurationSecondsOnShutdown,chrome.users,Power and shutdown,NO,ORG_UNIT,,Keepalive duration.
+chrome.users.FetchKeepaliveDurationSecondsOnShutdownV2,chrome.users,Power and shutdown,YES,GROUP+ORG_UNIT,,Keepalive duration.
+chrome.users.FileOrDirectoryPickerWithoutGestureAllowedForOrigins,chrome.users,Security,NO,ORG_UNIT,,File/directory picker without user gesture.
+chrome.users.FilePickerChooseFromDriveSettings,chrome.users,Content,YES,GROUP+ORG_UNIT,,Google Drive in file selection menu.
+chrome.users.FileSystemRead,chrome.users,Hardware,NO,ORG_UNIT,,File system read access.
+chrome.users.FileSystemSyncAccessHandleAsyncInterfaceEnabled,chrome.users,Hardware,YES,GROUP+ORG_UNIT,,File System Access API async interface.
+chrome.users.FileSystemWrite,chrome.users,Hardware,NO,ORG_UNIT,,File system write access.
+chrome.users.FindsSettings,chrome.users,Generative AI,YES,GROUP+ORG_UNIT,,Chrome Finds.
+chrome.users.FirstPartySetsEnabled,chrome.users,Content,YES,GROUP+ORG_UNIT,,First-Party Sets.
+chrome.users.FocusModeSoundsEnabled,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Sounds in Focus Mode.
+chrome.users.ForcedLanguages,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Preferred languages.
+chrome.users.ForceEnablePepperVideoDecoderDevApi,chrome.users,Content,YES,GROUP+ORG_UNIT,,PPB_VideoDecoder(Dev) API support.
+chrome.users.ForceEphemeralMode,chrome.users,Security,YES,GROUP+ORG_UNIT,,Force ephemeral mode.
+chrome.users.ForceForegroundPriorityForAllTabs,chrome.users,Other settings,YES,GROUP+ORG_UNIT,,Background tab priority.
+chrome.users.ForceMajorVersionToMinorPositionInUserAgent,chrome.users,Network,YES,GROUP+ORG_UNIT,,Freeze User-Agent string version.
+chrome.users.ForceMaximizeOnFirstRun,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Maximize window on first run.
+chrome.users.ForcePermissionPolicyUnloadDefaultEnabled,chrome.users,Legacy Site Compatibility,YES,GROUP+ORG_UNIT,,Unload event handlers.
+chrome.users.FTwelveKeyModifier,chrome.users,Accessibility,YES,GROUP+ORG_UNIT,,Control the shortcut used to trigger F12.
+chrome.users.FullscreenAlertEnabled,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Fullscreen alert.
+chrome.users.FullscreenAllowed,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Fullscreen mode.
+chrome.users.GaiaLockScreenOfflineSigninTimeLimitDays,chrome.users,Security,YES,GROUP+ORG_UNIT,,Google online unlock frequency.
+chrome.users.GaiaOfflineSigninTimeLimitDays,chrome.users,Security,YES,GROUP+ORG_UNIT,,Google online login frequency.
+chrome.users.GeminiSettings,chrome.users,Generative AI,YES,GROUP+ORG_UNIT,,Gemini integrations.
+chrome.users.GenAiChromeOsSmartActionsSettings,chrome.users,Generative AI,YES,GROUP+ORG_UNIT,,Text capture.
+chrome.users.GenAiDefaultSettings,chrome.users,Generative AI,YES,GROUP+ORG_UNIT,,Generative AI policy defaults.
+chrome.users.GenAiInlineImageSettings,chrome.users,Generative AI,YES,GROUP+ORG_UNIT,,Inline image generation.
+chrome.users.GenAiLocalFoundationalModelSettings,chrome.users,Generative AI,YES,GROUP+ORG_UNIT,,Local foundational model settings.
+chrome.users.GenAiPhotoEditingSettings,chrome.users,Generative AI,YES,GROUP+ORG_UNIT,,Generative AI Photo Editing.
+chrome.users.GenAiSmartGroupingSettings,chrome.users,Generative AI,YES,GROUP+ORG_UNIT,,Suggested groups.
+chrome.users.GenAiVcBackgroundSettings,chrome.users,Generative AI,YES,GROUP+ORG_UNIT,,Video conference background settings.
+chrome.users.GenAiWallpaperSettings,chrome.users,Generative AI,YES,GROUP+ORG_UNIT,,Wallpaper settings.
+chrome.users.Geolocation,chrome.users,Security,YES,GROUP+ORG_UNIT,,Geolocation.
+chrome.users.GeolocationForUrls,chrome.users,Security,NO,ORG_UNIT,,Geolocation for URLs.
+chrome.users.GloballyScopeHttpAuthCacheEnabled,chrome.users,Network,YES,GROUP+ORG_UNIT,,Globally scoped HTTP authentication cache.
+chrome.users.GoogleCast,chrome.users,Content,YES,GROUP+ORG_UNIT,,Cast.
+chrome.users.GoogleDriveSyncing,chrome.users,Content,YES,GROUP+ORG_UNIT,,Google Drive syncing.
+chrome.users.GoogleDriveSyncingOverCellular,chrome.users,Content,YES,GROUP+ORG_UNIT,,Google Drive syncing over cellular.
+chrome.users.GoogleSearchSidePanelEnabled,chrome.users,Omnibox search provider,YES,GROUP+ORG_UNIT,,Side Panel search.
+chrome.users.GssapiLibraryName,chrome.users,Network,YES,GROUP+ORG_UNIT,,GSSAPI library name.
+chrome.users.HardwareAccelerationModeEnabled,chrome.users,Hardware,YES,GROUP+ORG_UNIT,,GPU.
+chrome.users.HelpMeReadSettings,chrome.users,Generative AI,YES,GROUP+ORG_UNIT,,Help me read.
+chrome.users.HelpMeWriteSettings,chrome.users,Generative AI,YES,GROUP+ORG_UNIT,,Help me write.
+chrome.users.HighContrastEnabled,chrome.users,Accessibility,YES,GROUP+ORG_UNIT,,High contrast.
+chrome.users.HighEfficiencyModeEnabled,chrome.users,Other settings,YES,GROUP+ORG_UNIT,,High efficiency mode.
+chrome.users.HistorySearchSettings,chrome.users,Generative AI,YES,GROUP+ORG_UNIT,,History search settings.
+chrome.users.HomeAndEndKeysModifier,chrome.users,Accessibility,YES,GROUP+ORG_UNIT,,"Control the shortcut used to trigger the Home/End ""six pack"" keys."
+chrome.users.HomeButton,chrome.users,Startup,YES,GROUP+ORG_UNIT,,Home button.
+chrome.users.Homepage,chrome.users,Startup,YES,GROUP+ORG_UNIT,,Homepage.
+chrome.users.HstsPolicyBypassList,chrome.users,Network,YES,GROUP+ORG_UNIT,,HSTS policy bypass list.
+chrome.users.HttpAllowlist,chrome.users,Network,NO,ORG_UNIT,,HTTP Allowlist.
+chrome.users.HttpHeaderInjection,chrome.users,Network,YES,GROUP+ORG_UNIT,,HTTP header injection.
+chrome.users.HttpsOnlyMode,chrome.users,Content,YES,GROUP+ORG_UNIT,,Allow HTTPS-Only Mode to be enabled.
+chrome.users.HttpsUpgradesEnabled,chrome.users,Network,YES,GROUP+ORG_UNIT,,Automatic HTTPS upgrades.
+chrome.users.IdleSettingsExtended,chrome.users,Power and shutdown,YES,GROUP+ORG_UNIT,,Idle settings.
+chrome.users.Images,chrome.users,Content,NO,ORG_UNIT,,Images.
+chrome.users.ImportAutofillFormData,chrome.users,Import settings,YES,GROUP+ORG_UNIT,,Import autofill data.
+chrome.users.ImportBookmarks,chrome.users,Import settings,YES,GROUP+ORG_UNIT,,Import bookmarks.
+chrome.users.ImportHistory,chrome.users,Import settings,YES,GROUP+ORG_UNIT,,Import browsing history.
+chrome.users.ImportHomepage,chrome.users,Import settings,YES,GROUP+ORG_UNIT,,Import homepage.
+chrome.users.ImportSavedPasswords,chrome.users,Import settings,YES,GROUP+ORG_UNIT,,Import saved passwords.
+chrome.users.ImportSearchEngine,chrome.users,Import settings,YES,GROUP+ORG_UNIT,,Import search engines.
+chrome.users.InactiveBrowserDeletion,chrome.users,Other settings,YES,GROUP+ORG_UNIT,,Inactive period for browser deletion.
+chrome.users.InactivePeriodForProfileDeletion,chrome.users,Other settings,YES,GROUP+ORG_UNIT,,Inactive period for profile deletion.
+chrome.users.IncognitoMode,chrome.users,Security,YES,GROUP+ORG_UNIT,,Incognito mode.
+chrome.users.IncognitoModeUrlList,chrome.users,Security,NO,ORG_UNIT,,Incognito mode URL restrictions.
+chrome.users.InsecureContentAllowedForUrls,chrome.users,Content,NO,ORG_UNIT,,Allow insecure content on these sites.
+chrome.users.InsecureContentBlockedForUrls,chrome.users,Content,NO,ORG_UNIT,,Block insecure content on these sites.
+chrome.users.InsecureFormsWarningsEnabled,chrome.users,Content,YES,GROUP+ORG_UNIT,,Insecure forms.
+chrome.users.InsecureHashesInTlsHandshakesEnabled,chrome.users,Security,YES,GROUP+ORG_UNIT,,Insecure hashes in TLS handshakes.
+chrome.users.InsecurePrivateNetworkRequestsAllowed,chrome.users,Content,NO,ORG_UNIT,,Requests from insecure websites to more-private network endpoints.
+chrome.users.InsertKeyModifier,chrome.users,Accessibility,YES,GROUP+ORG_UNIT,,"Control the shortcut used to trigger the Insert ""six pack"" key."
+chrome.users.InstantTetheringAllowed,chrome.users,Connected devices,YES,GROUP+ORG_UNIT,,Instant Tethering.
+chrome.users.IntegratedWebAuthenticationAllowed,chrome.users,Network,YES,GROUP+ORG_UNIT,,Login credentials for network authentication.
+chrome.users.IntensiveWakeUpThrottlingEnabled,chrome.users,Content,YES,GROUP+ORG_UNIT,,Javascript IntensiveWakeUpThrottling.
+chrome.users.IntranetRedirectBehavior,chrome.users,Network,YES,GROUP+ORG_UNIT,,Intranet Redirection Behavior.
+chrome.users.IpVersionSixReachabilityOverride,chrome.users,Network,YES,GROUP+ORG_UNIT,,IPv6 reachability check override.
+chrome.users.Javascript,chrome.users,Content,NO,ORG_UNIT,,JavaScript.
+chrome.users.JavaScriptJitSettings,chrome.users,Content,NO,ORG_UNIT,,JavaScript JIT.
+chrome.users.KeepFullscreenWithoutNotificationUrlAllowList,chrome.users,User experience,NO,ORG_UNIT,,Fullscreen after unlock.
+chrome.users.KerberosAddAccountsAllowed,chrome.users,Kerberos,YES,GROUP+ORG_UNIT,,Kerberos accounts.
+chrome.users.KerberosCustomPrefilledConfigSettingGroup,chrome.users,Kerberos,YES,GROUP+ORG_UNIT,,Kerberos ticket default configuration.
+chrome.users.KerberosDomainAutocomplete,chrome.users,Kerberos,YES,GROUP+ORG_UNIT,,Autocomplete Kerberos domain.
+chrome.users.KerberosRememberPasswordEnabled,chrome.users,Kerberos,YES,GROUP+ORG_UNIT,,Remember Kerberos passwords.
+chrome.users.KerberosServicePrincipalName,chrome.users,Network,YES,GROUP+ORG_UNIT,,Kerberos service principal name.
+chrome.users.KerberosSpnPort,chrome.users,Network,YES,GROUP+ORG_UNIT,,Kerberos SPN port.
+chrome.users.KerberosTicketDelegation,chrome.users,Network,YES,GROUP+ORG_UNIT,,Kerberos ticket delegation.
+chrome.users.KerberosTickets,chrome.users,Kerberos,YES,GROUP+ORG_UNIT,,Kerberos tickets.
+chrome.users.KeyboardFocusableScrollersEnabled,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Keyboard focusable scrollers.
+chrome.users.KeyboardFocusHighlightEnabled,chrome.users,Accessibility,YES,GROUP+ORG_UNIT,,Keyboard focus highlighting.
+chrome.users.KeyboardFunctionKeys,chrome.users,Hardware,YES,GROUP+ORG_UNIT,,Keyboard.
+chrome.users.KrispNoiseCancellationEnabled,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Krisp voice AI.
+chrome.users.LargeCursorEnabled,chrome.users,Accessibility,YES,GROUP+ORG_UNIT,,Large cursor.
+chrome.users.LegacySameSiteCookieBehaviorEnabled,chrome.users,Content,YES,GROUP+ORG_UNIT,,Default legacy SameSite cookie behavior.
+chrome.users.LegacySameSiteCookieBehaviorEnabledForDomainList,chrome.users,Content,NO,ORG_UNIT,,Per-site legacy SameSite cookie behavior.
+chrome.users.LegacyTechReportAllowlist,chrome.users,Browser reporting,YES,GROUP+ORG_UNIT,,Legacy technology reporting.
+chrome.users.LensCameraAssistedSearchEnabled,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Google Lens camera assisted search.
+chrome.users.LensDesktopNtpSearchEnabled,chrome.users,Startup,YES,GROUP+ORG_UNIT,,New Tab page Google Lens button.
+chrome.users.LensOnGalleryEnabled,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Lens Gallery App integration.
+chrome.users.LensOverlaySettings,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Google Lens Overlay.
+chrome.users.LensRegionSearchEnabled,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Google Lens region search.
+chrome.users.ListenToThisPageEnabled,chrome.users,Accessibility,YES,GROUP+ORG_UNIT,,Read aloud for web pages.
+chrome.users.LiveCaptionEnabled,chrome.users,Accessibility,YES,GROUP+ORG_UNIT,,Live caption.
+chrome.users.LiveTranslateEnabled,chrome.users,Accessibility,YES,GROUP+ORG_UNIT,,Live translate.
+chrome.users.LoadCryptoTokenExtension,chrome.users,Content,YES,GROUP+ORG_UNIT,,Re-enable CryptoToken component extension until Chrome 107.
+chrome.users.LocalAuthFactors,chrome.users,Security,YES,GROUP+ORG_UNIT,,Local auth factors.
+chrome.users.LocalNetworkAccessIpAddressSpaceOverrides,chrome.users,Network,NO,ORG_UNIT,,IP address space overrides.
+chrome.users.LocalNetworkAccessPermissionsPolicyDefaultEnabled,chrome.users,Network,YES,GROUP+ORG_UNIT,,Local Network Access permissions for subframes.
+chrome.users.LocalNetworkAccessRestrictionsEnabled,chrome.users,Network,YES,GROUP+ORG_UNIT,,Local Network Access restrictions.
+chrome.users.LocalNetworkAccessRestrictionsTemporaryOptOut,chrome.users,Legacy Site Compatibility,YES,GROUP+ORG_UNIT,,Opt out of Local Network Access restrictions.
+chrome.users.LocalNetworkUrls,chrome.users,Network,NO,ORG_UNIT,,Local Network URLs.
+chrome.users.LocalUserFilesAllowed,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Local storage configuration.
+chrome.users.LockIconInAddressBarEnabled,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Lock icon in the omnibox for secure connections.
+chrome.users.LockScreen,chrome.users,Security,YES,GROUP+ORG_UNIT,,Lock screen.
+chrome.users.LockScreenAutoStartOnlineReauth,chrome.users,Security,YES,GROUP+ORG_UNIT,,Lock screen online reauthentication.
+chrome.users.LockScreenMediaPlaybackEnabled,chrome.users,Security,YES,GROUP+ORG_UNIT,,Lock screen media playback.
+chrome.users.LoginDisplayPasswordButtonEnabled,chrome.users,Sign-in settings,YES,GROUP+ORG_UNIT,,Display password button.
+chrome.users.LookalikeWarningAllowlistDomains,chrome.users,Chrome Safe Browsing,NO,ORG_UNIT,,Suppress lookalike domain warnings on domains.
+chrome.users.LoopbackNetworkUrls,chrome.users,Network,NO,ORG_UNIT,,Loopback network URLs.
+chrome.users.ManagedAccountsSigninRestriction,chrome.users,Sign-in settings,YES,GROUP+ORG_UNIT,,Separate profile for managed Google Identity.
+chrome.users.ManagedBookmarksSetting,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Managed bookmarks.
+chrome.users.MaxConnectionsPerProxy,chrome.users,Network,YES,GROUP+ORG_UNIT,,Max connections per proxy.
+chrome.users.MaxConnectionsPerProxyForWebSocket,chrome.users,Network,YES,GROUP+ORG_UNIT,,Max WebSocket connections per proxy.
+chrome.users.MaxInvalidationFetchDelay,chrome.users,Other settings,NO,ORG_UNIT,,Policy fetch delay.
+chrome.users.MaxInvalidationFetchDelayV2,chrome.users,Other settings,YES,GROUP+ORG_UNIT,,Policy fetch delay.
+chrome.users.MediaRecommendationsEnabled,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Media Recommendations.
+chrome.users.MemorySaverModeSavings,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Memory saver.
+chrome.users.MetricsReportingEnabled,chrome.users,Other settings,YES,GROUP+ORG_UNIT,,Metrics reporting.
+chrome.users.MicrosoftOfficeDocuments,chrome.users,Content,YES,GROUP+ORG_UNIT,,Microsoft Office documents.
+chrome.users.MicrosoftOneDrive,chrome.users,Content,YES,GROUP+ORG_UNIT,,Microsoft OneDrive integration.
+chrome.users.MixedContentAutoupgradeEnabled,chrome.users,Content,YES,GROUP+ORG_UNIT,,Mixed content autoupgrading.
+chrome.users.MobileManagement,chrome.users,Mobile,YES,GROUP+ORG_UNIT,,Chrome on Android.
+chrome.users.MonoAudioEnabled,chrome.users,Accessibility,YES,GROUP+ORG_UNIT,,Mono audio.
+chrome.users.MultipleSignInAccess,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Multiple sign-in access.
+chrome.users.MultiScreenCaptureAllowedForUrls,chrome.users,Security,YES,GROUP+ORG_UNIT,,URLs allowed for multi-screen capture .
+chrome.users.MutationEventsEnabled,chrome.users,Legacy Site Compatibility,YES,GROUP+ORG_UNIT,,Mutation Events.
+chrome.users.NativeClientForceAllowed,chrome.users,Content,YES,GROUP+ORG_UNIT,,Allow Native Client (NaCl).
+chrome.users.NativeHostsExecutablesLaunchDirectly,chrome.users,Other settings,YES,GROUP+ORG_UNIT,,Native messaging hosts.
+chrome.users.NativeMessagingAllowed,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Native Messaging allowed hosts.
+chrome.users.NativeMessagingBlocked,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Native Messaging blocked hosts.
+chrome.users.NativeMessagingUserHosts,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Native Messaging user-level hosts.
+chrome.users.NearbyShareAllowed,chrome.users,Connected devices,YES,GROUP+ORG_UNIT,,Nearby Share.
+chrome.users.NetworkFileShares,chrome.users,Content,YES,GROUP+ORG_UNIT,,Network file shares.
+chrome.users.NetworkPrediction,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Network prediction.
+chrome.users.NetworkServiceSandboxEnabled,chrome.users,Network,YES,GROUP+ORG_UNIT,,Network service sandbox.
+chrome.users.NewBaseUrlInheritanceBehaviorAllowed,chrome.users,Security,YES,GROUP+ORG_UNIT,,Enable the feature NewBaseUrlInheritanceBehavior.
+chrome.users.NewTabPageLocation,chrome.users,Startup,YES,GROUP+ORG_UNIT,,New tab page.
+chrome.users.Notifications,chrome.users,Content,NO,ORG_UNIT,,Notifications.
+chrome.users.NtlmV2Enabled,chrome.users,Network,YES,GROUP+ORG_UNIT,,NTLMv2 authentication.
+chrome.users.NtpCardsVisible,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Show cards on the New Tab Page.
+chrome.users.NtpContentSuggestionsEnabled,chrome.users,Startup,YES,GROUP+ORG_UNIT,,New Tab page content suggestions.
+chrome.users.NtpCustomBackgroundEnabled,chrome.users,Startup,YES,GROUP+ORG_UNIT,,New Tab page background.
+chrome.users.NtpFooterExtensionAttributionEnabled,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Extension attribution on the New Tab page footer.
+chrome.users.NtpFooterManagementNoticeEnabled,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Management notice on the New Tab page footer.
+chrome.users.NtpMiddleSlotAnnouncementVisible,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Middle slot announcement on the New Tab Page.
+chrome.users.NtpOutlookCardVisible,chrome.users,User experience,YES,GROUP+ORG_UNIT,,New Tab page Outlook card.
+chrome.users.NtpSharepointCardVisible,chrome.users,User experience,YES,GROUP+ORG_UNIT,,New Tab page Sharepoint and OneDrive card.
+chrome.users.NtpShortcuts,chrome.users,User experience,YES,GROUP+ORG_UNIT,,New Tab Page shortcuts.
+chrome.users.OffsetParentNewSpecBehaviorEnabled,chrome.users,Legacy Site Compatibility,YES,GROUP+ORG_UNIT,,Enable legacy HTMLElement offset behavior.
+chrome.users.OnBulkTextEntryConnectorPolicy,chrome.users,Chrome Enterprise connectors,YES,GROUP+ORG_UNIT,,Bulk text entry content analysis setting.
+chrome.users.OnFileAttachedConnectorPolicy,chrome.users,Chrome Enterprise connectors,YES,GROUP+ORG_UNIT,,File upload content analysis setting.
+chrome.users.OnFileDownloadedConnectorPolicy,chrome.users,Chrome Enterprise connectors,YES,GROUP+ORG_UNIT,,File download content analysis setting.
+chrome.users.OnlineRevocationChecks,chrome.users,Security,YES,GROUP+ORG_UNIT,,Online revocation checks.
+chrome.users.OnPrintAnalysisConnectorPolicy,chrome.users,Chrome Enterprise connectors,YES,GROUP+ORG_UNIT,,Print content analysis setting.
+chrome.users.OnSecurityEvent,chrome.users,Browser reporting,YES,GROUP+ORG_UNIT,,Event reporting.
+chrome.users.OopPrintDriversAllowed,chrome.users,Printing,YES,GROUP+ORG_UNIT,,Out-of-process print drivers.
+chrome.users.OptimizationGuideFetchingEnabled,chrome.users,Content,YES,GROUP+ORG_UNIT,,Optimization Guide Fetching.
+chrome.users.OriginAgentClusterDefaultEnabled,chrome.users,Security,YES,GROUP+ORG_UNIT,,Origin-keyed agent clustering.
+chrome.users.OriginKeyedProcessesEnabled,chrome.users,Site isolation,YES,GROUP+ORG_UNIT,,Origin-keyed process isolation.
+chrome.users.OsColorMode,chrome.users,User experience,YES,GROUP+ORG_UNIT,,ChromeOS color mode.
+chrome.users.OutOfProcessSystemDnsResolutionEnabled,chrome.users,Network,YES,GROUP+ORG_UNIT,,Network process system DNS resolution.
+chrome.users.OverrideSecurityRestrictionsOnInsecureOrigin,chrome.users,Security,YES,GROUP+ORG_UNIT,,Override insecure origin restrictions.
+chrome.users.PageUpAndPageDownKeysModifier,chrome.users,Accessibility,YES,GROUP+ORG_UNIT,,"Control the shortcut used to trigger the PageUp/PageDown ""six pack"" keys."
+chrome.users.ParcelTrackingEnabled,chrome.users,Content,YES,GROUP+ORG_UNIT,,Parcel tracking.
+chrome.users.PasswordAlert,chrome.users,Chrome Safe Browsing,NO,ORG_UNIT,,Password alert.
+chrome.users.PasswordDismissCompromisedAlertEnabled,chrome.users,Security,YES,GROUP+ORG_UNIT,,Compromised password alerts.
+chrome.users.PasswordLeakDetection,chrome.users,Security,YES,GROUP+ORG_UNIT,,Enable leak detection for entered credentials.
+chrome.users.PasswordManager,chrome.users,Security,YES,GROUP+ORG_UNIT,,Password manager.
+chrome.users.PasswordManagerPasskeysEnabled,chrome.users,Security,YES,GROUP+ORG_UNIT,,Passkeys.
+chrome.users.PaymentMethodQueryEnabled,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Payment methods.
+chrome.users.PdfAnnotationsEnabled,chrome.users,Content,YES,GROUP+ORG_UNIT,,PDF Annotations.
+chrome.users.PdfLocalFileAccessAllowedForDomains,chrome.users,Content,NO,ORG_UNIT,,Local file access to file:// URLs in the PDF Viewer.
+chrome.users.PdfUseSkiaRendererEnabled,chrome.users,Content,YES,GROUP+ORG_UNIT,,Renderer for PDF files.
+chrome.users.PdfViewerOutOfProcessIframeEnabled,chrome.users,Legacy Site Compatibility,YES,GROUP+ORG_UNIT,,PDF viewer.
+chrome.users.PersistentQuotaEnabled,chrome.users,Other settings,YES,GROUP+ORG_UNIT,,Persistent quota for webkitRequestFileSystem.
+chrome.users.PhoneHub,chrome.users,Connected devices,YES,GROUP+ORG_UNIT,,Phone Hub.
+chrome.users.PhysicalKeyboardAutocorrect,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Physical keyboard autocorrect.
+chrome.users.PhysicalKeyboardPredictiveWriting,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Physical keyboard predictive writing.
+chrome.users.PinSettings,chrome.users,Security,YES,GROUP+ORG_UNIT,,Lock screen PIN.
+chrome.users.PinUnlockAutosubmitEnabled,chrome.users,Security,YES,GROUP+ORG_UNIT,,PIN auto-submit.
+chrome.users.PluginVmAllowed,chrome.users,Parallels® Desktop,YES,GROUP+ORG_UNIT,,Parallels Desktop.
+chrome.users.PluginVmDataCollection,chrome.users,Parallels® Desktop,YES,GROUP+ORG_UNIT,,Diagnostic information.
+chrome.users.PluginVmImage,chrome.users,Parallels® Desktop,YES,GROUP+ORG_UNIT,,Parallels Desktop Windows image.
+chrome.users.PluginVmRequiredDiskSpace,chrome.users,Parallels® Desktop,YES,GROUP+ORG_UNIT,,Required disk space.
+chrome.users.PolicyMergelist,chrome.users,Setting sources,YES,GROUP+ORG_UNIT,,Policy mergelist.
+chrome.users.PolicyPrecedence,chrome.users,Setting sources,YES,GROUP+ORG_UNIT,,Policy precedence.
+chrome.users.Popups,chrome.users,Content,NO,ORG_UNIT,,Pop-ups.
+chrome.users.PostQuantumKeyAgreementEnabled,chrome.users,Security,YES,GROUP+ORG_UNIT,,Post-quantum TLS.
+chrome.users.PowerManagementUsesAudioActivity,chrome.users,Power and shutdown,YES,GROUP+ORG_UNIT,,Power management uses audio activity.
+chrome.users.PowerManagementUsesVideoActivity,chrome.users,Power and shutdown,YES,GROUP+ORG_UNIT,,Power management uses video activity.
+chrome.users.PpapiSharedImagesForVideoDecoderAllowed,chrome.users,Content,YES,GROUP+ORG_UNIT,,Allow Pepper to use shared images for video decoding.
+chrome.users.PpApiSharedImagesSwapChainAllowed,chrome.users,Content,YES,GROUP+ORG_UNIT,,Modern buffer allocation for Graphics3D APIs PPAPI plugin.
+chrome.users.PreferSlowCiphers,chrome.users,Network,YES,GROUP+ORG_UNIT,,TLS cipher suite preference.
+chrome.users.PrefetchWithServiceWorkerEnabled,chrome.users,Legacy Site Compatibility,YES,GROUP+ORG_UNIT,,Allow SpeculationRules prefetch to ServiceWorker-controlled URLs.
+chrome.users.PrefixedStorageInfoEnabled,chrome.users,Content,YES,GROUP+ORG_UNIT,,Re-enable window.webkitStorageInfo API.
+chrome.users.PrefixedVideoFullscreenApiAvailability,chrome.users,Legacy Site Compatibility,YES,GROUP+ORG_UNIT,,Prefixed video fullscreen API.
+chrome.users.PrimaryMouseButtonSwitch,chrome.users,Accessibility,YES,GROUP+ORG_UNIT,,Primary mouse button.
+chrome.users.PrinterTypeDenyList,chrome.users,Printing,YES,GROUP+ORG_UNIT,,Blocked printer types.
+chrome.users.PrintHeaderFooter,chrome.users,Printing,YES,GROUP+ORG_UNIT,,Print headers and footers.
+chrome.users.PrintingAllowedBackgroundGraphicsModes,chrome.users,Printing,YES,GROUP+ORG_UNIT,,Background graphics printing restriction.
+chrome.users.PrintingAllowedPinModes,chrome.users,Printing,YES,GROUP+ORG_UNIT,,Restrict PIN printing mode.
+chrome.users.PrintingBackgroundGraphicsDefault,chrome.users,Printing,YES,GROUP+ORG_UNIT,,Background graphics printing default.
+chrome.users.PrintingLpacSandboxEnabled,chrome.users,Security,YES,GROUP+ORG_UNIT,,Printing LPAC Sandbox.
+chrome.users.PrintingMaxSheetsAllowed,chrome.users,Printing,YES,GROUP+ORG_UNIT,,Maximum sheets.
+chrome.users.PrintingPaperSizeDefault,chrome.users,Printing,YES,GROUP+ORG_UNIT,,Default printing page size.
+chrome.users.PrintingPinDefault,chrome.users,Printing,YES,GROUP+ORG_UNIT,,Default PIN printing mode.
+chrome.users.PrintingSendUsernameAndFilenameEnabled,chrome.users,Printing,YES,GROUP+ORG_UNIT,,CUPS Print job information.
+chrome.users.PrintJobHistoryExpirationPeriodNew,chrome.users,Printing,NO,ORG_UNIT,,Print job history retention period.
+chrome.users.PrintJobHistoryExpirationPeriodNewV2,chrome.users,Printing,YES,GROUP+ORG_UNIT,,Print job history retention period.
+chrome.users.PrintPdfAsImage,chrome.users,Printing,YES,GROUP+ORG_UNIT,,Print PDF as image.
+chrome.users.PrintPostScriptMode,chrome.users,Printing,YES,GROUP+ORG_UNIT,,PostScript printer mode.
+chrome.users.PrintPreview,chrome.users,Printing,YES,GROUP+ORG_UNIT,,Print preview.
+chrome.users.PrintPreviewUseSystemDefaultPrinter,chrome.users,Printing,YES,GROUP+ORG_UNIT,,System Default Printer.
+chrome.users.PrintRasterizationMode,chrome.users,Printing,YES,GROUP+ORG_UNIT,,Print rasterization mode.
+chrome.users.PrivacySandboxPromptEnabled,chrome.users,Security,YES,GROUP+ORG_UNIT,,Privacy Sandbox.
+chrome.users.PrivacyScreenEnabled,chrome.users,Hardware,YES,GROUP+ORG_UNIT,,Privacy screen.
+chrome.users.PrivateNetworkAccessRestrictionsEnabled,chrome.users,Network,YES,GROUP+ORG_UNIT,,Private Network Access restrictions.
+chrome.users.ProcessIsolationEnabled,chrome.users,Legacy Site Compatibility,YES,GROUP+ORG_UNIT,,Process isolation.
+chrome.users.ProfilePickerOnStartupAvailability,chrome.users,Startup,YES,GROUP+ORG_UNIT,,Profile picker availability on browser startup.
+chrome.users.ProfileSeparationDataMigrationSettings,chrome.users,Sign-in settings,YES,GROUP+ORG_UNIT,,Profile separation data migration.
+chrome.users.ProfileSeparationDomainExceptionList,chrome.users,Sign-in settings,YES,GROUP+ORG_UNIT,,Profile separation exemptions.
+chrome.users.ProfileSeparationSettings,chrome.users,Sign-in settings,YES,GROUP+ORG_UNIT,,Enterprise profile separation.
+chrome.users.ProjectorEnabled,chrome.users,Content,YES,GROUP+ORG_UNIT,,Screencast.
+chrome.users.PromotionalTabsEnabled,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Promotional content.
+chrome.users.PromptForDownloadLocation,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Download location prompt.
+chrome.users.PromptOnMultipleMatchingCertificates,chrome.users,Other settings,YES,GROUP+ORG_UNIT,,Prompt when multiple certificates match.
+chrome.users.ProtectedContentIdentifiersAllowed,chrome.users,Content,YES,GROUP+ORG_UNIT,,Protected content playback.
+chrome.users.ProvisionalNotificationsAllowed,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Provisional notifications.
+chrome.users.ProxyOverrideRules,chrome.users,Network,YES,GROUP+ORG_UNIT,,Proxy Override Rules.
+chrome.users.QrCodeGeneratorEnabled,chrome.users,General,YES,GROUP+ORG_UNIT,,QR Code Generator.
+chrome.users.QuickAnswersEnabled,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Quick Answers.
+chrome.users.QuickUnlockModeAllowlist,chrome.users,Security,YES,GROUP+ORG_UNIT,,Quick unlock.
+chrome.users.QuicProtocol,chrome.users,Network,YES,GROUP+ORG_UNIT,,QUIC protocol.
+chrome.users.RealtimeUrlCheck,chrome.users,Chrome Enterprise connectors,YES,GROUP+ORG_UNIT,,Real time URL check.
+chrome.users.RecoveryFactorBehavior,chrome.users,Security,YES,GROUP+ORG_UNIT,,Account recovery.
+chrome.users.ReduceAcceptLanguageEnabled,chrome.users,Security,YES,GROUP+ORG_UNIT,,Accept-Language reduction.
+chrome.users.RegisteredProtocolHandlersSetting,chrome.users,Content,YES,GROUP+ORG_UNIT,,Custom Protocol Handlers.
+chrome.users.RelaunchNotificationWithDuration,chrome.users,Chrome updates,NO,ORG_UNIT,,Relaunch notification.
+chrome.users.RelaunchNotificationWithDurationV2,chrome.users,Chrome updates,YES,GROUP+ORG_UNIT,,Relaunch notification.
+chrome.users.RemoteAccessHostAllowEnterpriseRemoteSupportConnections,chrome.users,Remote access,YES,GROUP+ORG_UNIT,,Enterprise remote support connections.
+chrome.users.RemoteAccessHostAllowRemoteSupportConnections,chrome.users,Remote access,YES,GROUP+ORG_UNIT,,Remote support connections.
+chrome.users.RemoteAccessHostClientDomainList,chrome.users,Remote access,YES,GROUP+ORG_UNIT,,Remote access clients.
+chrome.users.RemoteAccessHostClipboardSizeBytes,chrome.users,Remote access,YES,GROUP+ORG_UNIT,,Clipboard sync max size.
+chrome.users.RemoteAccessHostDomainList,chrome.users,Remote access,YES,GROUP+ORG_UNIT,,Remote access hosts.
+chrome.users.RemoteAccessHostFirewallTraversal,chrome.users,Remote access,YES,GROUP+ORG_UNIT,,Firewall traversal.
+chrome.users.RemoteDebuggingAllowed,chrome.users,Security,YES,GROUP+ORG_UNIT,,Allow remote debugging.
+chrome.users.RendererAppContainerEnabled,chrome.users,Security,YES,GROUP+ORG_UNIT,,Renderer App Container.
+chrome.users.RendererCodeIntegrityEnabled,chrome.users,Security,YES,GROUP+ORG_UNIT,,Enable renderer code integrity.
+chrome.users.ReportAppUsage,chrome.users,Installed App Reporting,YES,GROUP+ORG_UNIT,,App usage reporting.
+chrome.users.RequireOnlineRevocationChecksForLocalAnchors,chrome.users,Network,YES,GROUP+ORG_UNIT,,Require online OCSP/CRL checks for local trust anchors.
+chrome.users.RestrictAccountsToPatterns,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Visible Accounts.
+chrome.users.RestrictCoreSharingOnRenderer,chrome.users,Security,YES,GROUP+ORG_UNIT,,CPU core sharing for renderer process.
+chrome.users.RestrictPrintColor,chrome.users,Printing,YES,GROUP+ORG_UNIT,,Restrict color printing mode.
+chrome.users.RestrictPrintDuplexMode,chrome.users,Printing,YES,GROUP+ORG_UNIT,,Restrict page sides.
+chrome.users.RestrictSigninToPattern,chrome.users,Sign-in settings,YES,GROUP+ORG_UNIT,,Restrict sign-in to pattern.
+chrome.users.RestrictYouTubeCookiesDeletion,chrome.users,Content,YES,GROUP+ORG_UNIT,,YouTube cookie deletion.
+chrome.users.RsaKeyUsageForLocalAnchorsEnabled,chrome.users,Legacy Site Compatibility,YES,GROUP+ORG_UNIT,,Check RSA key usage.
+chrome.users.SaasUsageReporting,chrome.users,Browser reporting,YES,GROUP+ORG_UNIT,,Gen AI and SaaS app usage reporting.
+chrome.users.SafeBrowsingAllowlistDomain,chrome.users,Chrome Safe Browsing,NO,ORG_UNIT,,Safe Browsing allowed domains.
+chrome.users.SafeBrowsingDeepScanningEnabled,chrome.users,Chrome Safe Browsing,YES,GROUP+ORG_UNIT,,Allow download deep scanning for Safe Browsing-enabled users.
+chrome.users.SafeBrowsingExtendedReporting,chrome.users,Chrome Safe Browsing,YES,GROUP+ORG_UNIT,,Help improve Safe Browsing.
+chrome.users.SafeBrowsingForTrustedSourcesEnabled,chrome.users,Chrome Safe Browsing,YES,GROUP+ORG_UNIT,,Safe Browsing for trusted sources.
+chrome.users.SafeBrowsingProtectionLevel,chrome.users,Chrome Safe Browsing,YES,GROUP+ORG_UNIT,,Safe Browsing protection.
+chrome.users.SafeBrowsingSurveysEnabled,chrome.users,Chrome Safe Browsing,YES,GROUP+ORG_UNIT,,Safe Browsing Surveys.
+chrome.users.SafeSearchRestrictedMode,chrome.users,Content,YES,GROUP+ORG_UNIT,,SafeSearch and Restricted Mode.
+chrome.users.SafeSitesFilterBehavior,chrome.users,Chrome Safe Browsing,YES,GROUP+ORG_UNIT,,SafeSites URL filter.
+chrome.users.SamlLockScreenOfflineSigninTimeLimitDays,chrome.users,Security,YES,GROUP+ORG_UNIT,,SAML single sign-on unlock frequency.
+chrome.users.SamlLockScreenReauthenticationEnabled,chrome.users,Security,YES,GROUP+ORG_UNIT,,SAML single sign-on password synchronization flows.
+chrome.users.SandboxExternalProtocolBlocked,chrome.users,Content,YES,GROUP+ORG_UNIT,,iframe navigation.
+chrome.users.ScreenBrightnessPercent,chrome.users,Security,YES,GROUP+ORG_UNIT,,Screen brightness.
+chrome.users.ScreenCaptureAllowed,chrome.users,Content,YES,GROUP+ORG_UNIT,,Screen video capture.
+chrome.users.ScreenCaptureLocation,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Screenshot location.
+chrome.users.ScreenCaptureWithoutGestureAllowedForOrigins,chrome.users,Security,NO,ORG_UNIT,,Media picker without user gesture.
+chrome.users.ScreenMagnifierType,chrome.users,Accessibility,YES,GROUP+ORG_UNIT,,Screen magnifier.
+chrome.users.Screenshot,chrome.users,Content,YES,GROUP+ORG_UNIT,,Screenshot.
+chrome.users.ScrollToTextFragmentEnabled,chrome.users,Content,YES,GROUP+ORG_UNIT,,Scroll to text fragment.
+chrome.users.SearchContentSharingSettings,chrome.users,Generative AI,YES,GROUP+ORG_UNIT,,Google AI Mode content sharing.
+chrome.users.SearchSuggest,chrome.users,Omnibox search provider,YES,GROUP+ORG_UNIT,,Search suggest.
+chrome.users.SecondaryGoogleAccountSignin,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Sign-in to secondary accounts.
+chrome.users.SecondaryGoogleAccountUsage,chrome.users,Sign-in settings,YES,GROUP+ORG_UNIT,,Managed account as secondary account.
+chrome.users.SecurityKeyAttestation,chrome.users,Content,YES,GROUP+ORG_UNIT,,Security key attestation.
+chrome.users.SecurityTokenSessionSettings,chrome.users,Security,NO,ORG_UNIT,,Security token removal.
+chrome.users.SecurityTokenSessionSettingsV2,chrome.users,Security,YES,GROUP+ORG_UNIT,,Security token removal.
+chrome.users.SelectToSpeakEnabled,chrome.users,Accessibility,YES,GROUP+ORG_UNIT,,Select to speak.
+chrome.users.SendMouseEventsDisabledFormControlsEnabled,chrome.users,Legacy Site Compatibility,YES,GROUP+ORG_UNIT,,Disabled element MouseEvents.
+chrome.users.SerialAllowUsbDevicesForUrls,chrome.users,Hardware,NO,ORG_UNIT,,Web Serial API allowed devices.
+chrome.users.ServiceWorkerAutoPreloadEnabled,chrome.users,Legacy Site Compatibility,YES,GROUP+ORG_UNIT,,ServiceWorker navigation requests dispatch.
+chrome.users.ServiceWorkerToControlSrcdocIframeEnabled,chrome.users,Content,YES,GROUP+ORG_UNIT,,Service worker control of srcdoc iframes.
+chrome.users.SessionLength,chrome.users,General,NO,ORG_UNIT,,Maximum user session length.
+chrome.users.SessionLengthV2,chrome.users,General,YES,GROUP+ORG_UNIT,,Maximum user session length.
+chrome.users.SetTimeoutWithoutOneMsClampEnabled,chrome.users,Content,YES,GROUP+ORG_UNIT,,Javascript setTimeout() minimum.
+chrome.users.SharedArrayBufferUnrestrictedAccessAllowed,chrome.users,Network,YES,GROUP+ORG_UNIT,,SharedArrayBuffer.
+chrome.users.SharedClipboardEnabled,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Shared clipboard.
+chrome.users.SharedWorkerBlobUrlFixEnabled,chrome.users,Content,YES,GROUP+ORG_UNIT,,SharedWorker.
+chrome.users.SharedWorkerExtendedLifetimeEnabled,chrome.users,Content,YES,GROUP+ORG_UNIT,,Shared worker extended lifetime.
+chrome.users.ShelfAlign,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Shelf position.
+chrome.users.ShelfAutoHideBehavior,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Shelf auto-hiding.
+chrome.users.ShoppingListEnabled,chrome.users,Content,YES,GROUP+ORG_UNIT,,Shopping list.
+chrome.users.ShortcutCustomizationAllowed,chrome.users,Accessibility,YES,GROUP+ORG_UNIT,,Customization of system shortcuts.
+chrome.users.ShowAccessibilityOptionsInSystemTrayMenu,chrome.users,Accessibility,YES,GROUP+ORG_UNIT,,Accessibility options in the system tray menu.
+chrome.users.ShowAiIntroScreenEnabled,chrome.users,Sign-in settings,YES,GROUP+ORG_UNIT,,AI feature introduction during sign-in.
+chrome.users.ShowAppsShortcutInBookmarkBar,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Apps shortcut in the bookmark bar.
+chrome.users.ShowCastSessionsStartedByOtherDevices,chrome.users,Content,YES,GROUP+ORG_UNIT,,Show media controls for Google Cast sessions started by other devices on the local network.
+chrome.users.ShowDisplaySizeScreenEnabled,chrome.users,Sign-in settings,YES,GROUP+ORG_UNIT,,Display size setting during sign-in.
+chrome.users.ShowFullUrlsInAddressBar,chrome.users,User experience,YES,GROUP+ORG_UNIT,,URLs in the address bar.
+chrome.users.ShowGeminiIntroScreenEnabled,chrome.users,Sign-in settings,YES,GROUP+ORG_UNIT,,Gemini introduction during sign-in.
+chrome.users.ShowLogoutButton,chrome.users,Session settings,YES,GROUP+ORG_UNIT,,Show sign-out button in tray.
+chrome.users.ShowTouchpadScrollScreenEnabled,chrome.users,Sign-in settings,YES,GROUP+ORG_UNIT,,Touchpad scroll setting during sign-in.
+chrome.users.SideSearchEnabled,chrome.users,Omnibox search provider,YES,GROUP+ORG_UNIT,,Side Panel search history.
+chrome.users.SignedHttpExchangeEnabled,chrome.users,Network,YES,GROUP+ORG_UNIT,,Signed HTTP Exchange (SXG) support.
+chrome.users.SigninInterceptionEnabled,chrome.users,Sign-in settings,YES,GROUP+ORG_UNIT,,Signin interception.
+chrome.users.SilentPrintingEnabled,chrome.users,Printing,YES,GROUP+ORG_UNIT,,Silent printing.
+chrome.users.SimpleProxySettings,chrome.users,Network,YES,GROUP+ORG_UNIT,,Proxy mode.
+chrome.users.SingleSignOn,chrome.users,Security,NO,ORG_UNIT,,Single sign-on.
+chrome.users.SingleSignOnLoginFrequency,chrome.users,Security,YES,GROUP+ORG_UNIT,,SAML single sign-on login frequency.
+chrome.users.SingleSignOnPasswordSynchronization,chrome.users,Security,YES,GROUP+ORG_UNIT,,SAML single sign-on password synchronization.
+chrome.users.SiteIsolationAndroid,chrome.users,Site isolation,NO,ORG_UNIT,,Site isolation (Chrome on Android).
+chrome.users.SiteIsolationBrowser,chrome.users,Site isolation,NO,ORG_UNIT,,Site isolation.
+chrome.users.SiteSearchSettings,chrome.users,Omnibox search provider,YES,GROUP+ORG_UNIT,,Site search.
+chrome.users.SmartLockAllowed,chrome.users,Connected devices,YES,GROUP+ORG_UNIT,,Smart Lock.
+chrome.users.SmartScreenDimDelay,chrome.users,Power and shutdown,YES,GROUP+ORG_UNIT,,Delay screen dim on user activity.
+chrome.users.SmartTabSharingSettings,chrome.users,General,YES,GROUP+ORG_UNIT,,Smart tab sharing.
+chrome.users.SmsMessagesAllowed,chrome.users,Connected devices,YES,GROUP+ORG_UNIT,,Messages.
+chrome.users.SpellcheckEnabled,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Spell check.
+chrome.users.SpellCheckService,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Spell check service.
+chrome.users.SpokenFeedbackEnabled,chrome.users,Accessibility,YES,GROUP+ORG_UNIT,,Spoken feedback.
+chrome.users.SslErrorOverrideAllowed,chrome.users,Network,YES,GROUP+ORG_UNIT,,SSL error override.
+chrome.users.SslErrorOverrideAllowedForOrigins,chrome.users,Network,NO,ORG_UNIT,,SSL error override allowed domains.
+chrome.users.SslVersionMin,chrome.users,Network,YES,GROUP+ORG_UNIT,,Minimum SSL version enabled.
+chrome.users.StandardizedBrowserZoomEnabled,chrome.users,Legacy Site Compatibility,YES,GROUP+ORG_UNIT,,Zoom Behavior.
+chrome.users.StartupPages,chrome.users,Startup,YES,GROUP+ORG_UNIT,,Pages to load on startup.
+chrome.users.StaticStorageQuotaEnabled,chrome.users,Content,YES,GROUP+ORG_UNIT,,Storage quota APIs.
+chrome.users.StickyKeysEnabled,chrome.users,Accessibility,YES,GROUP+ORG_UNIT,,Sticky keys.
+chrome.users.StrictMimetypeCheckForWorkerScriptsEnabled,chrome.users,Security,YES,GROUP+ORG_UNIT,,Strict MIME type checking for worker scripts.
+chrome.users.SuggestedContentEnabled,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Suggested content.
+chrome.users.SuppressCrossOriginIframeDialogs,chrome.users,Content,YES,GROUP+ORG_UNIT,,Cross-origin JavaScript dialogs.
+chrome.users.SuppressUnsupportedOsWarning,chrome.users,Security,YES,GROUP+ORG_UNIT,,Unsupported system warning.
+chrome.users.SyncSettingsCbcm,chrome.users,Other settings,YES,GROUP+ORG_UNIT,,Chrome Sync and Roaming Profiles (Chrome Browser - Cloud Managed).
+chrome.users.SyncSettingsCros,chrome.users,Other settings,YES,GROUP+ORG_UNIT,,Chrome Sync (ChromeOS).
+chrome.users.SystemFeaturesDisableList,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Disabled system features.
+chrome.users.SystemShortcutBehavior,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Override system shortcuts.
+chrome.users.SystemTerminalSshAllowed,chrome.users,Virtual machines (VMs) and developers,YES,GROUP+ORG_UNIT,,SSH in terminal system app.
+chrome.users.TabCompareSettings,chrome.users,Generative AI,YES,GROUP+ORG_UNIT,,Tab compare.
+chrome.users.TabDiscardingExceptions,chrome.users,Other settings,NO,ORG_UNIT,,Exceptions to tab discarding.
+chrome.users.TabGroupSharingSettings,chrome.users,General,YES,GROUP+ORG_UNIT,,Tab group sharing.
+chrome.users.TabOrganizerSettings,chrome.users,Generative AI,YES,GROUP+ORG_UNIT,,Tab organizer.
+chrome.users.TargetBlankImpliesNoOpener,chrome.users,Security,YES,GROUP+ORG_UNIT,,Pop-up interactions.
+chrome.users.TaskManager,chrome.users,Apps and extensions,YES,GROUP+ORG_UNIT,,Task manager.
+chrome.users.ThirdPartyAiChatSettings,chrome.users,Generative AI,YES,GROUP+ORG_UNIT,,Third-party AI chat in search.
+chrome.users.ThirdPartyBlockingEnabled,chrome.users,Security,YES,GROUP+ORG_UNIT,,Third party code.
+chrome.users.ThirdPartyCookieBlocking,chrome.users,Content,YES,GROUP+ORG_UNIT,,Third-party cookie blocking.
+chrome.users.ThirdPartyPasswordManagersAllowed,chrome.users,Sign-in settings,YES,GROUP+ORG_UNIT,,Third-party password managers allowed.
+chrome.users.ThirdPartyStoragePartitioningSettings,chrome.users,Content,NO,ORG_UNIT,,Third-party storage partitioning.
+chrome.users.ThreeDContent,chrome.users,Content,YES,GROUP+ORG_UNIT,,3D content.
+chrome.users.ThrottleNonVisibleCrossOriginIframesAllowed,chrome.users,Content,YES,GROUP+ORG_UNIT,,"Throttling of non-visible, cross-origin iframes."
+chrome.users.TotalMemoryLimitMb,chrome.users,Other settings,YES,GROUP+ORG_UNIT,,Chrome browser memory limit.
+chrome.users.TouchVirtualKeyboardEnabled,chrome.users,Accessibility,YES,GROUP+ORG_UNIT,,Touch on-screen keyboard.
+chrome.users.Translate,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Google Translate.
+chrome.users.TranslatorApiAllowed,chrome.users,Content,YES,GROUP+ORG_UNIT,,Translator API.
+chrome.users.TrashEnabled,chrome.users,Content,YES,GROUP+ORG_UNIT,,Trashed files.
+chrome.users.TripleDesEnabled,chrome.users,Security,YES,GROUP+ORG_UNIT,,3DES cipher suites in TLS.
+chrome.users.UiAutomationProviderEnabled,chrome.users,Accessibility,YES,GROUP+ORG_UNIT,,UI Automation accessibility provider.
+chrome.users.UnifiedDesktop,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Unified Desktop (BETA).
+chrome.users.UnmanagedDeviceSignalsConsentFlowEnabled,chrome.users,User experience,YES,GROUP+ORG_UNIT,,User consent to share device signals.
+chrome.users.UnthrottledNestedTimeoutEnabled,chrome.users,Content,YES,GROUP+ORG_UNIT,,JavaScript setTimeout() clamping.
+chrome.users.UpdatesSuppressed,chrome.users,Chrome updates,YES,GROUP+ORG_UNIT,,Suppress auto-update check.
+chrome.users.UrlBlocking,chrome.users,Content,YES,GROUP+ORG_UNIT,,URL blocking.
+chrome.users.UrlKeyedAnonymizedDataCollectionEnabled,chrome.users,Content,YES,GROUP+ORG_UNIT,,Enable URL-keyed anonymized data collection.
+chrome.users.UrlParamFilterEnabled,chrome.users,User experience,YES,GROUP+ORG_UNIT,,URL parameter filtering.
+chrome.users.UsbDetectorNotificationEnabled,chrome.users,Hardware,YES,GROUP+ORG_UNIT,,USB device detected notification.
+chrome.users.UseMojoVideoDecoderForPepperAllowed,chrome.users,Content,YES,GROUP+ORG_UNIT,,Use a new decoder for hardware accelerated video decoding.
+chrome.users.UserAgentClientHintsEnabled,chrome.users,Network,YES,GROUP+ORG_UNIT,,User-Agent client hints.
+chrome.users.UserAgentClientHintsGreaseUpdateEnabled,chrome.users,Network,YES,GROUP+ORG_UNIT,,User-Agent Client Hints GREASE Update.
+chrome.users.UserAgentReduction,chrome.users,Network,YES,GROUP+ORG_UNIT,,User-Agent Reduction.
+chrome.users.UserAvatarCustomizationSelectorsEnabled,chrome.users,Sign-in settings,YES,GROUP+ORG_UNIT,,Customization of user avatar image using Google profile image or local images.
+chrome.users.UserBorealisAllowed,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Steam on ChromeOS.
+chrome.users.UserDataSnapshotRetentionLimit,chrome.users,Chrome updates,YES,GROUP+ORG_UNIT,,User data snapshot limits.
+chrome.users.UserDownloadDirectory,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Download location.
+chrome.users.UserEnrollmentNudging,chrome.users,Enrollment controls,YES,GROUP+ORG_UNIT,,Initial sign-in.
+chrome.users.UserFeedbackAllowed,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Allow user feedback.
+chrome.users.UserPrintersAllowed,chrome.users,Printing,YES,GROUP+ORG_UNIT,,Printer management.
+chrome.users.UTwoFSecurityKeyApiEnabled,chrome.users,Security,YES,GROUP+ORG_UNIT,,U2F Security Key API.
+chrome.users.Variations,chrome.users,Chrome variations,YES,GROUP+ORG_UNIT,,Variations.
+chrome.users.VerifiedMode,chrome.users,User verification,YES,GROUP+ORG_UNIT,,Verified Mode.
+chrome.users.VideoCaptureAllowedUrls,chrome.users,Hardware,NO,ORG_UNIT,,Video input allowed URLs.
+chrome.users.VideoInput,chrome.users,Hardware,YES,GROUP+ORG_UNIT,,Built-in camera access.
+chrome.users.VirtualKeyboardEnabled,chrome.users,Accessibility,YES,GROUP+ORG_UNIT,,Accessibility on-screen keyboard.
+chrome.users.VirtualKeyboardResizesLayoutByDefault,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Virtual keyboard resizes the viewport.
+chrome.users.VirtualMachinesAllowed,chrome.users,Virtual machines (VMs) and developers,YES,GROUP+ORG_UNIT,,Linux virtual machines.
+chrome.users.VirtualMachinesAndroidAdbSideloadingAllowed,chrome.users,Virtual machines (VMs) and developers,YES,GROUP+ORG_UNIT,,Android apps from untrusted sources.
+chrome.users.VirtualMachinesBackupRestoreUiAllowed,chrome.users,Virtual machines (VMs) and developers,YES,GROUP+ORG_UNIT,,Linux virtual machine backup and restore.
+chrome.users.VirtualMachinesCommandLineAccessAllowed,chrome.users,Virtual machines (VMs) and developers,YES,GROUP+ORG_UNIT,,Command line access.
+chrome.users.VirtualMachinesPortForwardingAllowed,chrome.users,Virtual machines (VMs) and developers,YES,GROUP+ORG_UNIT,,Port forwarding.
+chrome.users.VoiceTypingSettings,chrome.users,Generative AI,YES,GROUP+ORG_UNIT,,Talk to type.
+chrome.users.WaitForInitialUserActivity,chrome.users,Power and shutdown,YES,GROUP+ORG_UNIT,,Wait for initial user activity.
+chrome.users.Wallpaper,chrome.users,General,YES,GROUP+ORG_UNIT,,Custom wallpaper.
+chrome.users.WallpaperGooglePhotosIntegrationEnabled,chrome.users,Sign-in settings,YES,GROUP+ORG_UNIT,,Wallpaper selection from Google Photos.
+chrome.users.WarnBeforeQuittingEnabled,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Warn before quitting.
+chrome.users.WatermarkStyle,chrome.users,Data controls,YES,GROUP+ORG_UNIT,,Custom watermark appearance.
+chrome.users.WebAudioOutputBufferingEnabled,chrome.users,User experience,YES,GROUP+ORG_UNIT,,Adaptive buffering for Web Audio.
+chrome.users.WebAuthnFactors,chrome.users,Security,YES,GROUP+ORG_UNIT,,WebAuthn.
+chrome.users.WebBluetoothAccess,chrome.users,Content,YES,GROUP+ORG_UNIT,,Web Bluetooth API.
+chrome.users.WebHidAllowDevicesForUrls,chrome.users,Hardware,NO,ORG_UNIT,,WebHID API allowed devices.
+chrome.users.WebRtcAllowLegacyTlsProtocols,chrome.users,Network,YES,GROUP+ORG_UNIT,,Legacy TLS/DTLS downgrade in WebRTC.
+chrome.users.WebrtcEventLogCollectionAllowed,chrome.users,User experience,YES,GROUP+ORG_UNIT,,WebRTC event log collection.
+chrome.users.WebRtcIpHandling,chrome.users,Network,YES,GROUP+ORG_UNIT,,WebRTC IP handling.
+chrome.users.WebRtcLocalIpsAllowedUrls,chrome.users,Network,NO,ORG_UNIT,,WebRTC ICE candidate URLs for local IPs.
+chrome.users.WebRtcPostQuantumKeyAgreement,chrome.users,Network,YES,GROUP+ORG_UNIT,,Post-quantum key agreement for WebRTC.
+chrome.users.WebRtcTextLogCollectionAllowed,chrome.users,User experience,YES,GROUP+ORG_UNIT,,WebRTC text logs collection from Google Services.
+chrome.users.WebRtcUdpPortRange,chrome.users,Network,YES,GROUP+ORG_UNIT,,WebRTC UDP ports.
+chrome.users.WebSerialPortAccess,chrome.users,Hardware,NO,ORG_UNIT,,Web Serial API.
+chrome.users.WebSqlAccess,chrome.users,Security,YES,GROUP+ORG_UNIT,,Force WebSQL to be enabled.
+chrome.users.WebSqlInThirdPartyContextEnabled,chrome.users,Security,YES,GROUP+ORG_UNIT,,WebSQL in third-party context.
+chrome.users.WebSqlNonSecureContextEnabled,chrome.users,Security,YES,GROUP+ORG_UNIT,,WebSQL in non-secure contexts.
+chrome.users.WebUsbAllowDevicesForUrls,chrome.users,Hardware,NO,ORG_UNIT,,WebUSB API allowed devices.
+chrome.users.WebUsbPortAccess,chrome.users,Hardware,NO,ORG_UNIT,,Controls which websites can ask for USB access.
+chrome.users.WebXrImmersiveArEnabled,chrome.users,Other settings,YES,GROUP+ORG_UNIT,,WebXR immersive-ar sessions.
+chrome.users.WifiSyncAndroidAllowed,chrome.users,Other settings,YES,GROUP+ORG_UNIT,,Wi-Fi network configurations sync.
+chrome.users.WindowOcclusionEnabled,chrome.users,Content,YES,GROUP+ORG_UNIT,,Occluded window rendering.
+chrome.users.WpadQuickCheckEnabled,chrome.users,Network,YES,GROUP+ORG_UNIT,,WPAD optimization.
+chrome.users.XdrConfigurationSelection,chrome.users,Non-autosettings Chrome Enterprise connectors settings,YES,GROUP+ORG_UNIT,,XDR connector selection.
+chrome.users.XsltEnabled,chrome.users,Legacy Site Compatibility,YES,GROUP+ORG_UNIT,,XSLT feature.
+chrome.users.ZstdContentEncodingEnabled,chrome.users,Content,YES,GROUP+ORG_UNIT,,Zstd compression.
